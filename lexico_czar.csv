@@ -1,0 +1,441 @@
+id,text,emotion
+1,Eu finalmente consegui o emprego dos meus sonhos!,Felicidade
+2,A sensação de sol na minha pele é incrível!,Felicidade
+3,Estou tão feliz em ver você depois de tanto tempo!,Felicidade
+4,Estou tão animado para começar minhas férias!,Felicidade
+5,Acabei de receber a notícia de que fui aceito na minha universidade dos sonhos!,Felicidade
+6,As cores do pôr do sol são simplesmente maravilhosas!,Felicidade
+7,Finalmente posso comemorar meu aniversário com meus amigos e familiares novamente!,Felicidade
+8,Acabei de receber uma promoção no trabalho que eu tanto queria!,Felicidade
+9,Estou tão grato por ter uma vida feliz e saudável!,Felicidade
+10,Acabei de receber uma carta de aceitação da faculdade!,Felicidade
+11,Finalmente consegui me livrar desse projeto estressante!,Felicidade
+12,A música que acabei de ouvir me fez sentir tão bem!,Felicidade
+13,As flores na primavera são tão bonitas!,Felicidade
+14,Estou tão animado para viajar para um lugar novo no próximo mês!,Felicidade
+15,"Hoje foi um dia tão produtivo, me sinto realizado!",Felicidade
+16,Estou tão feliz por ter amigos e familiares incríveis!,Felicidade
+17,Acabei de descobrir que ganhei um prêmio na loteria!,Felicidade
+18,Acho que encontrei o amor da minha vida!,Felicidade
+19,Finalmente posso dizer que estou onde quero estar na vida!,Felicidade
+20,Apenas fizemos uma viagem incrível para um lugar paradisíaco!,Felicidade
+21,Terminei um livro incrível e agora me sinto inspirado!,Felicidade
+22,Estou tão grato por ter uma família carinhosa e um lar acolhedor!,Felicidade
+23,Acordei sentindo uma energia tão boa hoje!,Felicidade
+24,A música é capaz de me fazer feliz em qualquer situação!,Felicidade
+25,Consegui completar um desafio difícil e me sinto incrível!,Felicidade
+26,Estou tão empolgado para aprender uma nova habilidade!,Felicidade
+27,Recebi uma notícia incrível hoje que me deixou tão feliz!,Felicidade
+28,As crianças sempre me fazem sentir tão feliz e animado!,Felicidade
+29,Acabei de ver um belo pôr do sol e me sinto tão grato!,Felicidade
+30,Finalmente consegui comprar aquilo que queria há tanto tempo!,Felicidade
+31,Estou tão feliz por ter pessoas incríveis em minha vida!,Felicidade
+32,Acabei de receber uma surpresa incrível de alguém especial!,Felicidade
+33,Estou tão feliz por poder ter um tempo para mim mesmo hoje!,Felicidade
+34,Apenas tive uma ótima reunião com minha equipe e estou animado para o futuro!,Felicidade
+35,Meu time favorito acabou de ganhar um jogo importante!,Felicidade
+36,Estou tão grato por ter boa saúde e energia!,Felicidade
+37,A vida é bela e estou aproveitando cada momento dela!,Felicidade
+38,Estou tão feliz por ter uma carreira que amo!,Felicidade
+39,Acabei de ter uma conversa inspiradora com um amigo!,Felicidade
+40,"Hoje foi um dia tão especial, estou transbordando de felicidade!",Felicidade
+41,Acabei de receber um abraço reconfortante de alguém que amo!,Felicidade
+42,Estou tão animado para tentar algo novo e desafiador!,Felicidade
+43,Estou tão feliz por ter um círculo íntimo de amigos confiáveis!,Felicidade
+44,Hoje é um daqueles dias em que tudo está dando certo!,Felicidade
+45,A gratidão é a chave para a felicidade e estou grato por tanto!,Felicidade
+46,Estou tão feliz por ter uma casa quente e segura para chamar de lar!,Felicidade
+47,A simplicidade da vida é algo que me faz feliz todos os dias!,Felicidade
+48,Acabei de fazer algo incrível que nunca pensei ser possível!,Felicidade
+49,Estou tão animado para ver um amigo que não vejo há muito tempo!,Felicidade
+50,Hoje é um daqueles dias em que tudo parece possível!,Felicidade
+51,Estou tão feliz por ter a oportunidade de ajudar alguém hoje!,Felicidade
+52,Acabei de ver um filme incrível que me deixou tão inspirado!,Felicidade
+53,A vida é cheia de aventuras emocionantes e estou pronto para elas!,Felicidade
+54,Estou tão feliz por ter tempo livre para fazer o que amo hoje!,Felicidade
+55,As pequenas coisas da vida são as que mais me fazem feliz!,Felicidade
+56,Acabei de receber uma mensagem de alguém que amo muito!,Felicidade
+57,Estou tão animado para ver o que o futuro reserva para mim!,Felicidade
+58,Acabei de receber um elogio incrível e me sinto nas nuvens!,Felicidade
+59,Estou tão grato por ter aprendido algo novo hoje!,Felicidade
+60,A vida é uma jornada maravilhosa e estou adorando cada momento!,Felicidade
+61,Acabei de ter uma refeição deliciosa e me sinto tão feliz!,Felicidade
+62,Estou tão feliz por ter um hobby que amo tanto!,Felicidade
+63,"Hoje foi um dia tão ensolarado e bonito, estou tão feliz!",Felicidade
+64,Acabei de ter uma conversa emocionante com um parente distante!,Felicidade
+65,Estou tão animado para começar um novo projeto empolgante!,Felicidade
+66,Estou tão feliz por ter um grupo de amigos incríveis que me apoiam sempre!,Felicidade
+67,Acabei de ter um dia de aventuras e risadas com minha família!,Felicidade
+68,Estou tão feliz por ter uma vida cheia de amor e felicidade!,Felicidade
+69,A vida é incrível e estou tão grato por tudo o que tenho!,Felicidade
+70,Acabei de receber uma notícia incrível que mudou meu dia para melhor!,Felicidade
+71,Estou tão animado para fazer algo novo e desafiador hoje!,Felicidade
+72,Hoje é um daqueles dias em que sinto que posso conquistar o mundo!,Felicidade
+73,Estou tão feliz por ter uma família amorosa e solidária!,Felicidade
+74,A felicidade está em apreciar as coisas simples da vida!,Felicidade
+75,Acabei de ter um momento de conexão profunda com alguém!,Felicidade
+76,Estou tão feliz por ter um emprego que me realiza e me faz feliz!,Felicidade
+77,A felicidade é contagiosa e estou animado para espalhá-la por aí!,Felicidade
+78,Acabei de ter um dia de autocuidado e me sinto tão revigorado!,Felicidade
+79,Estou tão grato por ter pessoas maravilhosas em minha vida!,Felicidade
+80,A vida é uma aventura incrível e estou adorando cada minuto dela!,Felicidade
+81,Acabei de receber uma mensagem de um amigo querido e me sinto tão feliz!,Felicidade
+82,A felicidade está em aproveitar as pequenas coisas da vida!,Felicidade
+83,Acabei de ter uma experiência incrível que nunca esquecerei!,Felicidade
+84,Estou tão feliz por ter um parceiro amoroso e carinhoso!,Felicidade
+85,A vida é cheia de surpresas maravilhosas e estou pronto para elas!,Felicidade
+86,Acabei de ter um dia de trabalho gratificante e me sinto tão realizado!,Felicidade
+87,Estou tão grato por ter um lugar seguro e confortável para dormir todas as noites!,Felicidade
+88,A felicidade está em aproveitar cada momento da vida!,Felicidade
+89,Acabei de ter uma conversa profunda e significativa com alguém!,Felicidade
+90,Estou tão feliz por ter amigos que me fazem rir e me animam sempre!,Felicidade
+91,Estou tão feliz que poderia pular de alegria!,Felicidade
+92,Eu sinto como se pudesse conquistar o mundo hoje!,Felicidade
+93,Estou tão feliz que não consigo parar de sorrir!,Felicidade
+94,Hoje é um dia maravilhoso para ser feliz!,Felicidade
+95,O sol está brilhando e o céu está azul - que dia perfeito!,Felicidade
+96,A felicidade é contagiosa - vamos espalhar mais dela!,Felicidade
+97,A vida é um presente e eu sou grato por cada momento!,Felicidade
+98,Não há nada melhor do que um dia cheio de risos e felicidade!,Felicidade
+99,A vida é bela e eu sinto muita gratidão por tudo que tenho!,Felicidade
+100,Eu vou ao supermercado hoje.,Felicidade
+101,O tempo está agradável lá fora.,Neutralidade
+102,Eu não tenho certeza do que quero comer para o jantar.,Neutralidade
+103,Acho que vou assistir a um filme hoje à noite.,Neutralidade
+104,Eu não tenho certeza se quero sair ou ficar em casa hoje.,Neutralidade
+105,Acho que preciso fazer compras de supermercado antes do final de semana.,Neutralidade
+106,Acho que vou escolher o sanduíche de peru hoje para o almoço.,Neutralidade
+107,"O tempo está bom lá fora, nem muito quente nem muito frio.",Neutralidade
+108,Acho que vou pegar o ônibus das 15h para ir para casa hoje.,Neutralidade
+109,"Hoje foi um dia como qualquer outro, sem grandes acontecimentos.",Neutralidade
+110,"Não estou triste nem feliz, apenas existindo neste momento.",Neutralidade
+111,"Às vezes, é bom ter um dia tranquilo e sem grandes emoções.",Neutralidade
+112,"Não há nada de especial acontecendo, apenas a rotina do dia a dia.",Neutralidade
+113,"Neste momento, não sinto nada em particular, apenas uma sensação de calma.",Neutralidade
+114,"Hoje não é um dia bom nem ruim, apenas um dia normal.",Neutralidade
+115,"Às vezes, é bom ter um momento de paz e tranquilidade em meio ao caos da vida.",Neutralidade
+116,"Nada de muito emocionante aconteceu hoje, mas isso não significa que seja um dia ruim.",Neutralidade
+117,"Neste momento, estou simplesmente presente e consciente do que está ao meu redor.",Neutralidade
+118,"Hoje é um dia sem grandes surpresas, apenas mais um dia na minha jornada.",Neutralidade
+119,"Às vezes, é bom ter um momento de silêncio em meio ao barulho do mundo.",Neutralidade
+120,"Não estou feliz nem triste, apenas vivendo o presente.",Neutralidade
+121,"Neste momento, não há nada de especial acontecendo, mas isso não significa que a vida seja chata.",Neutralidade
+122,"Hoje não é um dia emocionante, mas ainda assim, é um dia precioso que não voltará.",Neutralidade
+123,"Às vezes, é bom ter um dia sem grandes expectativas ou pressões.",Neutralidade
+124,"Não estou sentindo nada em particular, apenas fluindo com a vida.",Neutralidade
+125,"Neste momento, estou simplesmente presente, observando o mundo ao meu redor.",Neutralidade
+126,"Hoje é um dia sem grandes dramas ou conflitos, apenas um dia comum.",Neutralidade
+127,"Às vezes, é bom ter um momento de neutralidade em meio a tanta polarização.",Neutralidade
+128,"Neste momento, estou simplesmente sendo, sem julgamentos ou expectativas.",Neutralidade
+129,"Hoje é apenas um dia comum, sem nada de especial acontecendo.",Neutralidade
+130,"É uma situação neutra - nem boa, nem ruim.",Neutralidade
+131,"Nem tudo na vida pode ser emocionante - às vezes, é bom ter um pouco de tranquilidade.",Neutralidade
+132,Não tenho sentimentos fortes em relação a isso.,Neutralidade
+133,Não tenho opinião sobre isso.,Neutralidade
+134,"Não estou nem feliz, nem triste - estou simplesmente aqui.",Neutralidade
+135,"Estou apenas passando o tempo, sem muita emoção.",Neutralidade
+136,"Estou apenas observando, sem julgamentos.",Neutralidade
+137,Não há nada que me chame a atenção sobre isso.,Neutralidade
+138,Como alguém pode ser tão insensível e cruel?,Neutralidade
+139,Eu não posso acreditar que essa empresa é tão desonesta!,Raiva
+140,Estou tão irritado com essa situação injusta.,Raiva
+141,Não consigo acreditar que ele disse isso! Que falta de respeito!,Raiva
+142,Estou tão frustrado com o sistema político atual.,Raiva
+143,Essa situação é completamente absurda e injusta!,Raiva
+144,Não posso acreditar que ela tenha sido tão rude comigo na frente de todo mundo!,Raiva
+145,Estou tão cansado de lidar com pessoas desonestas e manipuladoras.,Raiva
+146,Essa situação é tão frustrante e estressante!,Raiva
+147,Estou furioso com a injustiça que vejo ao meu redor.,Raiva
+148,Não consigo suportar a hipocrisia e a falsidade das pessoas.,Raiva
+149,Estou cansado de ser ignorado e desrespeitado pelas pessoas ao meu redor.,Raiva
+150,Não aguento mais as mentiras e manipulações das pessoas.,Raiva
+151,Estou farto da corrupção e da falta de ética na política.,Raiva
+152,Não suporto mais a intolerância e o preconceito que vejo todos os dias.,Raiva
+153,Estou indignado com a crueldade e a violência que as pessoas são capazes de cometer.,Raiva
+154,Não aguento mais a incompetência e a falta de comprometimento das pessoas.,Raiva
+155,Estou enfurecido com a falta de empatia e compaixão das pessoas ao meu redor.,Raiva
+156,Não suporto mais a falta de respeito e consideração que as pessoas têm pelos outros.,Raiva
+157,Estou irado com a falta de justiça e equidade no mundo.,Raiva
+158,Não aguento mais a arrogância e o egocentrismo das pessoas.,Raiva
+159,Estou farto da falta de responsabilidade e compromisso das pessoas.,Raiva
+160,Não suporto mais a falta de educação e civilidade das pessoas ao meu redor.,Raiva
+161,Estou indignado com a falta de solidariedade e empatia das pessoas em tempos difíceis.,Raiva
+162,Não aguento mais a falta de transparência e honestidade nas relações pessoais e profissionais.,Raiva
+163,Estou enfurecido com a desigualdade e a discriminação que ainda existem no mundo.,Raiva
+164,Não suporto mais a falta de comprometimento com a preservação do meio ambiente.,Raiva
+165,Estou irado com a falta de senso de coletividade e responsabilidade social das pessoas.,Raiva
+166,Não aguento mais a falta de diálogo e entendimento entre as pessoas com opiniões diferentes.,Raiva
+167,Estou tão irritado que sinto que vou explodir!,Raiva
+168,Eu sinto como se estivesse fervendo em raiva!,Raiva
+169,Eu estou tão furioso que não consigo nem falar!,Raiva
+170,Essa situação me deixa tão frustrado que mal consigo aguentar!,Raiva
+171,Essa situação é completamente inaceitável!,Raiva
+172,Eu não mereço ser tratado assim e não vou tolerar esse comportamento!,Raiva
+173,Eu estou muito bravo com você agora!,Raiva
+174,Eu não consigo acreditar que isso está acontecendo!,Raiva
+175,Eu não estou brincando - isso está me fazendo perder a cabeça!,Raiva
+176,"Ótimo, mais um dia de trabalho das 9h às 18h, exatamente o que eu queria!",Raiva
+177,Eu te odeio!,Raiva
+178,Odeio Isso!,Raiva
+179,não quero mais conversar,Raiva
+180,não vou falar mais nada,Raiva
+181,quero que se foda!,Raiva
+182,para de me encher o saco,Raiva
+183,cacete!,Raiva
+184,vai se foder!,Raiva
+185,para com isso!,Raiva
+186,não vou mais te ajudar!,Raiva
+187,saia daqui agora,Raiva
+188,"Claro, porque a última coisa que eu queria era paz e tranquilidade hoje.",Sarcasmo
+189,"Sim, porque ficar preso no trânsito por horas é a minha ideia de diversão.",Sarcasmo
+190,"Oh, ótimo, mais um reunião inútil que vai durar horas!",Sarcasmo
+191,"Claro, porque não há nada que eu ame mais do que ficar preso no trânsito por horas.",Sarcasmo
+192,"Sim, porque esperar na fila do banco é a minha ideia de um momento divertido.",Sarcasmo
+193,"Ah, sim, eu adoro esperar em filas intermináveis ​​para comprar ingressos para um show!",Sarcasmo
+194,"Ótimo, mais um dia de trabalho chato e monótono, exatamente o que eu queria!",Sarcasmo
+195,"Claro, porque ficar preso em um elevador por horas é a minha ideia de diversão.",Sarcasmo
+196,"Claro, porque é totalmente normal agir assim em uma situação como essa.",Sarcasmo
+197,"Ah, sim, porque a vida é sempre justa e previsível.",Sarcasmo
+198,"Ótimo, mais uma coisa para deixar meu dia ainda mais incrível.",Sarcasmo
+199,"Que ideia brilhante, nunca pensei em fazer algo tão inteligente como isso antes.",Sarcasmo
+200,"Claro, porque é exatamente o que eu precisava para completar minha coleção de problemas.",Sarcasmo
+201,"Ah, sim, porque definitivamente é isso que eu queria fazer no meu tempo livre.",Sarcasmo
+202,"Perfeito, eu amo quando as coisas dão errado exatamente quando eu preciso delas.",Sarcasmo
+203,"Fantástico, mais uma oportunidade de lidar com a incompetência alheia.",Sarcasmo
+204,Incrível como as pessoas sempre conseguem me surpreender com sua falta de bom senso.,Sarcasmo
+205,"Maravilhoso, eu adoro quando as coisas saem do controle e tudo vira uma bagunça.",Sarcasmo
+206,"Ah, sim, porque é exatamente o que eu queria ouvir nesse momento.",Sarcasmo
+207,"Ótimo, mais uma oportunidade de lidar com a estupidez humana.",Sarcasmo
+208,"Brilhante, porque é assim que se resolve qualquer problema: ignorando-o completamente.",Sarcasmo
+209,"Fantástico, eu amo quando as pessoas me fazem perder tempo com coisas completamente inúteis.",Sarcasmo
+210,"Maravilhoso, mais uma oportunidade de lidar com a falta de ética e profissionalismo das pessoas.",Sarcasmo
+211,"Claro, porque é totalmente lógico fazer algo que não tem nenhum sentido.",Sarcasmo
+212,"Ótimo, mais uma oportunidade de lidar com a ignorância e a falta de conhecimento das pessoas.",Sarcasmo
+213,"Brilhante, porque é sempre uma boa ideia fazer algo que vai me trazer ainda mais problemas.",Sarcasmo
+214,"Maravilhoso, porque eu sempre quis lidar com pessoas que acham que sabem tudo.",Sarcasmo
+215,"Ah, sim, porque é assim que se resolve qualquer problema: fazendo nada e esperando que ele desapareça.",Sarcasmo
+216,"Oh, claro, porque isso é exatamente o que eu queria fazer hoje - passar o dia inteiro no telefone.",Sarcasmo
+217,"Claro, porque essa é definitivamente uma boa ideia.",Sarcasmo
+218,"Ah sim, porque nada diz ""experiência de usuário incrível"" como uma interface confusa e difícil de usar.",Sarcasmo
+219,"Sim, por favor, me diga mais sobre como você é o especialista em tudo.",Sarcasmo
+220,"Absolutamente, porque quem precisa de lógica e bom senso, não é mesmo?",Sarcasmo
+221,"Claro, porque eu adoro quando as coisas são complicadas e confusas.",Sarcasmo
+222,Eu amo quando as coisas dão errado - é o meu hobby favorito.,Sarcasmo
+223,"Oh, não, não precisa se preocupar comigo - eu adoro esperar por horas.",Sarcasmo
+224,"Oh, claro, porque o que eu realmente queria era mais drama na minha vida.",Sarcasmo
+225,Eu não posso acreditar que ele se foi tão cedo...,Sarcasmo
+226,Eu perdi meu cachorro hoje e meu coração está partido.,Tristeza
+227,O mundo parece tão cinza e sem graça agora...,Tristeza
+228,Eu perdi meu avô esta semana e sinto muito a falta dele.,Tristeza
+229,A vida às vezes pode parecer tão injusta e cruel.,Tristeza
+230,"Às vezes, é difícil encontrar uma luz no fim do túnel.",Tristeza
+231,Sinto muito a falta da minha casa antiga e da minha vida anterior.,Tristeza
+232,"Às vezes, é difícil não se sentir sozinho e isolado no mundo.",Tristeza
+233,É tão difícil lidar com a perda de um ente querido.,Tristeza
+234,"Às vezes, a vida pode ser tão difícil e dolorosa.",Tristeza
+235,"Eu só queria que as coisas fossem diferentes, mas parece que estou preso nesta tristeza.",Tristeza
+236,"Às vezes, parece que estou sozinho no mundo e que ninguém entende minha dor.",Tristeza
+237,"A tristeza é como uma nuvem escura que paira sobre mim, impedindo-me de ver a luz do sol.",Tristeza
+238,Sinto uma tristeza profunda que parece nunca desaparecer.,Tristeza
+239,"Às vezes, a tristeza é tão avassaladora que é difícil lidar com ela sozinho.",Tristeza
+240,"Às vezes, sinto que minha vida é apenas uma sucessão de perdas e decepções.",Tristeza
+241,A tristeza é como uma ferida aberta que nunca cicatriza completamente.,Tristeza
+242,"Às vezes, é difícil encontrar a esperança quando tudo parece tão sombrio.",Tristeza
+243,A tristeza é como uma prisão que me mantém cativo em meu próprio sofrimento.,Tristeza
+244,"Às vezes, sinto que estou afogando em um mar de tristeza e não consigo encontrar a superfície.",Tristeza
+245,A tristeza é uma emoção tão pesada e opressiva que parece esmagar meu espírito.,Tristeza
+246,"Às vezes, sinto que a tristeza é tudo o que resta quando a alegria desaparece.",Tristeza
+247,A tristeza é como uma sombra que me segue aonde quer que eu vá.,Tristeza
+248,"Às vezes, a tristeza é tão profunda que não consigo nem chorar.",Tristeza
+249,A tristeza é uma dor que parece não ter fim.,Tristeza
+250,"Às vezes, a tristeza é tão avassaladora que sinto que vou ser engolido por ela.",Tristeza
+251,A tristeza é como um nevoeiro espesso que obscurece minha visão do mundo.,Tristeza
+252,"Às vezes, sinto que a tristeza é tudo o que tenho, que não há mais nada em minha vida.",Tristeza
+253,A tristeza é como um buraco negro que suga toda a alegria e felicidade do universo.,Tristeza
+254,"Às vezes, a tristeza é tão profunda que sinto que nunca vou ser capaz de superá-la.",Tristeza
+255,A tristeza é uma emoção tão dolorosa que às vezes é difícil encontrar palavras para descrevê-la.,Tristeza
+256,Sinto como se o mundo estivesse desabando ao meu redor.,Tristeza
+257,A dor é real e às vezes é difícil de suportar.,Tristeza
+258,A tristeza é uma batalha constante que tenho que enfrentar todos os dias.,Tristeza
+259,"Às vezes, é difícil encontrar a luz no fim do túnel.",Tristeza
+260,Eu só quero me esconder debaixo das cobertas e não sair de lá.,Tristeza
+261,"Às vezes, é difícil encontrar a força para continuar.",Tristeza
+262,A tristeza é como uma nuvem negra que paira sobre mim.,Tristeza
+263,As lágrimas não param de cair e eu não consigo parar de sentir essa dor.,Tristeza
+264,Eu sinto falta da pessoa que costumava ser antes de tudo isso acontecer.,Tristeza
+265,Sinto uma tristeza profunda em meu coração.,Tristeza
+266,A solidão é o meu pior inimigo.,Tristeza
+267,Meu coração está partido em mil pedaços.,Tristeza
+268,Nada parece me alegrar ultimamente.,Tristeza
+269,Sinto como se estivesse preso em um poço sem fundo.,Tristeza
+270,Minha alma está cansada de tanta dor.,Tristeza
+271,Não consigo encontrar alegria em nada.,Tristeza
+272,Sinto falta de algo que nunca tive.,Tristeza
+273,As lágrimas não param de cair dos meus olhos.,Tristeza
+274,A vida perdeu todo o seu brilho.,Tristeza
+275,O vazio dentro de mim é insuportável.,Tristeza
+276,A tristeza parece ter se instalado em meu coração para sempre.,Tristeza
+277,Sinto como se estivesse sempre nadando contra a corrente.,Tristeza
+278,Não suporto mais essa sensação de angústia.,Tristeza
+279,Sinto como se estivesse perdido em um labirinto sem saída.,Tristeza
+280,A tristeza é uma nuvem escura que me acompanha aonde quer que eu vá.,Tristeza
+281,Meu coração está tão pesado que mal consigo respirar.,Tristeza
+282,"Às vezes, sinto como se estivesse vivendo em um pesadelo sem fim.",Tristeza
+283,Sinto como se estivesse cercado por uma névoa de tristeza.,Tristeza
+284,Minha vida parece um filme triste e sem fim.,Tristeza
+285,A solidão é um fardo pesado demais para carregar.,Tristeza
+286,Sinto falta de alguém que não está mais aqui.,Tristeza
+287,A tristeza é um buraco negro que suga toda a minha energia.,Tristeza
+288,Não consigo encontrar um motivo para sorrir.,Tristeza
+289,"Às vezes, a tristeza é tão forte que parece física.",Tristeza
+290,Sinto como se estivesse sempre lutando contra uma força invisível.,Tristeza
+291,Minha alma está cansada de tanto sofrimento.,Tristeza
+292,A tristeza é uma ferida aberta que nunca cicatriza.,Tristeza
+293,Sinto como se estivesse sempre vivendo na escuridão.,Tristeza
+294,A saudade é uma dor que nunca passa.,Tristeza
+295,Sinto como se estivesse sempre carregando um peso enorme nas costas.,Tristeza
+296,A tristeza é um vazio que nada pode preencher.,Tristeza
+297,Não consigo me livrar dessa sensação de desespero.,Tristeza
+298,Sinto como se estivesse sempre à beira do abismo.,Tristeza
+299,A tristeza é um inimigo que sempre volta para me assombrar.,Tristeza
+300,"Às vezes, sinto como se estivesse vivendo em um mundo sem cor.",Tristeza
+301,A dor é um companheiro constante.,Tristeza
+302,Sinto como se estivesse sempre sozinho em meio à multidão.,Tristeza
+303,A tristeza é um labirinto sem saída.,Tristeza
+304,Minha vida parece um livro triste que nunca acaba.,Tristeza
+305,"Às vezes, sinto como se estivesse preso em um sonho ruim.",Tristeza
+306,A tristeza é uma tempestade que nunca passa.,Tristeza
+307,Sinto como se estivesse sempre lutando contra mim mesmo.,Tristeza
+308,A dor é um fogo que queima por dentro.,Tristeza
+309,"Às vezes, sinto como se estivesse vivendo em um pesadelo acordado.",Tristeza
+310,A tristeza é uma ferida que nunca fecha.,Tristeza
+311,Sinto como se estivesse sempre no meio de uma tempestade.,Tristeza
+312,A solidão é uma dor que nenhum remédio pode curar.,Tristeza
+313,"Às vezes, sinto como se estivesse vivendo em um mundo de sombras.",Tristeza
+314,A tristeza é um veneno que se espalha pelo meu corpo.,Tristeza
+315,Sinto como se estivesse sempre em busca de algo que nunca encontrarei.,Tristeza
+316,A dor é um monstro que me consome lentamente.,Tristeza
+317,"Às vezes, sinto como se estivesse preso em uma gaiola invisível.",Tristeza
+318,A tristeza é um buraco negro que engole tudo o que há de bom em mim.,Tristeza
+319,Sinto como se estivesse sempre lutando contra uma maré forte.,Tristeza
+320,A solidão é uma ferida que nunca sara.,Tristeza
+321,"Às vezes, sinto como se estivesse vivendo em um mundo sem sentido.",Tristeza
+322,A tristeza é um fantasma que me assombra todas as noites.,Tristeza
+323,Sinto como se estivesse sempre no meio de uma batalha sem fim.,Tristeza
+324,A dor é um abismo que me suga para baixo.,Tristeza
+325,"Às vezes, sinto como se estivesse vivendo em um mundo de ilusão.",Tristeza
+326,A tristeza é um espinho que se aloja em meu coração.,Tristeza
+327,A solidão é um vazio que nada pode preencher.,Tristeza
+328,"Às vezes, sinto como se estivesse preso em um pesadelo sem fim.",Tristeza
+329,A tristeza é uma sombra que me segue aonde quer que eu vá.,Tristeza
+330,A dor é um fardo pesado demais para carregar.,Tristeza
+331,"Às vezes, sinto como se estivesse vivendo em um mundo de mentiras.",Tristeza
+332,A tristeza é um monstro que me assombra todas as noites.,Tristeza
+333,Sinto como se estivesse sempre à beira do precipício.,Tristeza
+334,A solidão é um mar sem fim.,Tristeza
+335,"Às vezes, sinto como se estivesse preso em um labirinto sem saída.",Tristeza
+336,A dor é um demônio que me persegue todos os dias.,Tristeza
+337,"Às vezes, sinto como se estivesse vivendo em um mundo sem esperança.",Tristeza
+338,A tristeza é um lobo solitário que uiva à noite.,Tristeza
+339,Sinto como se estivesse sempre lutando contra um vento forte.,Tristeza
+340,A solidão é um buraco negro que engole tudo o que há de bom em mim.,Tristeza
+341,A tristeza é um abismo que me suga para baixo.,Tristeza
+342,A dor é um fantasma que me assombra todas as noites.,Tristeza
+343,"Às vezes, sinto como se estivesse vivendo em um mundo sem amor.",Tristeza
+344,A tristeza é um monstro que me consome lentamente.,Tristeza
+345,A dor é um vício que não consigo largar.,Tristeza
+346,A solidão é um fogo que queima por dentro.,Tristeza
+347,A dor é um espinho que se aloja em meu coração.,Tristeza
+348,A tristeza me consome por dentro.,Tristeza
+349,A dor que sinto é insuportável.,Tristeza
+350,Não vejo a hora de acabar com essa dor.,Tristeza
+351,A solidão é uma companhia cruel.,Tristeza
+352,Sinto falta do que nunca tive.,Tristeza
+353,Meu mundo desmoronou diante dos meus olhos.,Tristeza
+354,Não consigo mais sorrir como antes.,Tristeza
+355,As lágrimas não param de cair.,Tristeza
+356,O vazio dentro de mim é enorme.,Tristeza
+357,Não há nada que possa me consolar.,Tristeza
+358,A tristeza é uma nuvem que me segue.,Tristeza
+359,Minha alma está cansada de tanto sofrer.,Tristeza
+360,Sinto uma dor que não passa.,Tristeza
+361,Meu coração está afundando em tristeza.,Tristeza
+362,A saudade dói demais.,Tristeza
+363,Não vejo mais sentido na vida.,Tristeza
+364,A dor é tão forte que não consigo respirar.,Tristeza
+365,Tudo ao meu redor parece cinza.,Tristeza
+366,Me sinto sozinho mesmo estando acompanhado.,Tristeza
+367,A tristeza é como uma ferida que não cicatriza.,Tristeza
+368,Sinto falta do que já não existe mais.,Tristeza
+369,O futuro parece sombrio e sem esperança.,Tristeza
+370,Não há nada que possa me fazer feliz de novo.,Tristeza
+371,A dor é tanta que não cabe em mim.,Tristeza
+372,Sinto que perdi tudo o que um dia tive.,Tristeza
+373,A tristeza é como uma doença que me consome.,Tristeza
+374,Não encontro forças para seguir em frente.,Tristeza
+375,A dor é como uma faca que corta minha alma.,Tristeza
+376,Sinto que nada mais faz sentido.,Tristeza
+377,A tristeza é como um buraco negro que me suga.,Tristeza
+378,Não consigo mais ver beleza nas coisas.,Tristeza
+379,A dor é como um fogo que queima sem parar.,Tristeza
+380,Meu coração está em pedaços.,Tristeza
+381,A tristeza é como um peso que carrego nas costas.,Tristeza
+382,Sinto falta de algo que nem sei o que é.,Tristeza
+383,Não há nada que possa me trazer de volta.,Tristeza
+384,A dor é como uma tempestade que não passa.,Tristeza
+385,Sinto que o mundo não é mais o mesmo.,Tristeza
+386,A tristeza é como uma prisão que me aprisiona.,Tristeza
+387,Não vejo mais luz no fim do túnel.,Tristeza
+388,A dor é como um veneno que me mata aos poucos.,Tristeza
+389,Sinto que perdi a mim mesmo.,Tristeza
+390,A tristeza é como uma sombra que me segue.,Tristeza
+391,Não há nada que possa preencher o vazio dentro de mim.,Tristeza
+392,A dor é como um abismo que me engole.,Tristeza
+393,Sinto que não tenho mais razões para viver.,Tristeza
+394,A tristeza é como um fantasma que me assombra.,Tristeza
+395,Não consigo mais encontrar a felicidade.,Tristeza
+396,A dor é como uma corda que me sufoca.,Tristeza
+397,Sinto que perdi a fé na vida.,Tristeza
+398,A tristeza é como um terremoto que abala minhas estruturas.,Tristeza
+399,Não há nada que possa me fazer esquecer.,Tristeza
+400,A dor é como um corte que não para de sangrar.,Tristeza
+401,Sinto que tudo o que eu tinha se foi.,Tristeza
+402,A tristeza é como um veneno que me envenena.,Tristeza
+403,Não vejo mais sentido em nada.,Tristeza
+404,A dor é como um martelo que me esmaga.,Tristeza
+405,Sinto que estou preso em um labirinto sem saída.,Tristeza
+406,A tristeza é como uma névoa que me cega.,Tristeza
+407,Não há nada que possa curar essa dor.,Tristeza
+408,A dor é como uma ferida que não cicatriza.,Tristeza
+409,Sinto que perdi a vontade de viver.,Tristeza
+410,Não consigo mais encontrar a luz.,Tristeza
+411,A dor é como um fardo que me pesa.,Tristeza
+412,Sinto que estou perdido em um mar de tristeza.,Tristeza
+413,A tristeza é como um furacão que me arrasta.,Tristeza
+414,A dor é como uma lança que me perfura.,Tristeza
+415,Sinto que estou em um beco sem saída.,Tristeza
+416,A tristeza é como uma tempestade que me assola.,Tristeza
+417,Não vejo mais saída para essa dor.,Tristeza
+418,A dor é como uma nuvem negra que me segue.,Tristeza
+419,Sinto que perdi o rumo da vida.,Tristeza
+420,A tristeza é como uma correnteza que me arrasta.,Tristeza
+421,Não há nada que possa me tirar desse abismo.,Tristeza
+422,A dor é como um tiro no peito.,Tristeza
+423,Sinto que tudo está perdido.,Tristeza
+424,A tristeza é como uma prisão sem grades.,Tristeza
+425,A dor é como um golpe que me derruba.,Tristeza
+426,Sinto que estou sozinho nesse mundo.,Tristeza
+427,A tristeza é como uma ferida que não sara.,Tristeza
+428,Não há nada que possa me devolver a esperança.,Tristeza
+429,A dor é como uma mão que aperta meu coração.,Tristeza
+430,Sinto que não tenho mais forças para lutar.,Tristeza
+431,Não consigo mais encontrar a alegria de viver.,Tristeza
+432,A dor é como um espinho que se crava em mim.,Tristeza
+433,Sinto que estou afundando em um mar de tristeza.,Tristeza
+434,A tristeza é como um labirinto sem saída.,Tristeza
+435,Não há nada que possa me fazer sorrir novamente.,Tristeza
+436,Sinto que perdi tudo o que um dia amei.,Tristeza
+437,A tristeza é como uma tempestade que não passa.,Tristeza
+438,Não consigo mais encontrar o caminho de volta.,Tristeza
+439,A dor é como um vazio que não pode ser preenchido.,Tristeza
+440,Sinto que estou perdido em um oceano de tristeza.,Tristeza
