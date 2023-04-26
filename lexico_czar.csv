@@ -1,441 +1,1251 @@
 id,text,emotion
-1,Eu finalmente consegui o emprego dos meus sonhos!,Felicidade
-2,A sensação de sol na minha pele é incrível!,Felicidade
-3,Estou tão feliz em ver você depois de tanto tempo!,Felicidade
-4,Estou tão animado para começar minhas férias!,Felicidade
-5,Acabei de receber a notícia de que fui aceito na minha universidade dos sonhos!,Felicidade
-6,As cores do pôr do sol são simplesmente maravilhosas!,Felicidade
-7,Finalmente posso comemorar meu aniversário com meus amigos e familiares novamente!,Felicidade
-8,Acabei de receber uma promoção no trabalho que eu tanto queria!,Felicidade
-9,Estou tão grato por ter uma vida feliz e saudável!,Felicidade
-10,Acabei de receber uma carta de aceitação da faculdade!,Felicidade
-11,Finalmente consegui me livrar desse projeto estressante!,Felicidade
-12,A música que acabei de ouvir me fez sentir tão bem!,Felicidade
-13,As flores na primavera são tão bonitas!,Felicidade
-14,Estou tão animado para viajar para um lugar novo no próximo mês!,Felicidade
-15,"Hoje foi um dia tão produtivo, me sinto realizado!",Felicidade
-16,Estou tão feliz por ter amigos e familiares incríveis!,Felicidade
-17,Acabei de descobrir que ganhei um prêmio na loteria!,Felicidade
-18,Acho que encontrei o amor da minha vida!,Felicidade
-19,Finalmente posso dizer que estou onde quero estar na vida!,Felicidade
-20,Apenas fizemos uma viagem incrível para um lugar paradisíaco!,Felicidade
-21,Terminei um livro incrível e agora me sinto inspirado!,Felicidade
-22,Estou tão grato por ter uma família carinhosa e um lar acolhedor!,Felicidade
-23,Acordei sentindo uma energia tão boa hoje!,Felicidade
-24,A música é capaz de me fazer feliz em qualquer situação!,Felicidade
-25,Consegui completar um desafio difícil e me sinto incrível!,Felicidade
-26,Estou tão empolgado para aprender uma nova habilidade!,Felicidade
-27,Recebi uma notícia incrível hoje que me deixou tão feliz!,Felicidade
-28,As crianças sempre me fazem sentir tão feliz e animado!,Felicidade
-29,Acabei de ver um belo pôr do sol e me sinto tão grato!,Felicidade
-30,Finalmente consegui comprar aquilo que queria há tanto tempo!,Felicidade
-31,Estou tão feliz por ter pessoas incríveis em minha vida!,Felicidade
-32,Acabei de receber uma surpresa incrível de alguém especial!,Felicidade
-33,Estou tão feliz por poder ter um tempo para mim mesmo hoje!,Felicidade
-34,Apenas tive uma ótima reunião com minha equipe e estou animado para o futuro!,Felicidade
-35,Meu time favorito acabou de ganhar um jogo importante!,Felicidade
-36,Estou tão grato por ter boa saúde e energia!,Felicidade
-37,A vida é bela e estou aproveitando cada momento dela!,Felicidade
-38,Estou tão feliz por ter uma carreira que amo!,Felicidade
-39,Acabei de ter uma conversa inspiradora com um amigo!,Felicidade
-40,"Hoje foi um dia tão especial, estou transbordando de felicidade!",Felicidade
-41,Acabei de receber um abraço reconfortante de alguém que amo!,Felicidade
-42,Estou tão animado para tentar algo novo e desafiador!,Felicidade
-43,Estou tão feliz por ter um círculo íntimo de amigos confiáveis!,Felicidade
-44,Hoje é um daqueles dias em que tudo está dando certo!,Felicidade
-45,A gratidão é a chave para a felicidade e estou grato por tanto!,Felicidade
-46,Estou tão feliz por ter uma casa quente e segura para chamar de lar!,Felicidade
-47,A simplicidade da vida é algo que me faz feliz todos os dias!,Felicidade
-48,Acabei de fazer algo incrível que nunca pensei ser possível!,Felicidade
-49,Estou tão animado para ver um amigo que não vejo há muito tempo!,Felicidade
-50,Hoje é um daqueles dias em que tudo parece possível!,Felicidade
-51,Estou tão feliz por ter a oportunidade de ajudar alguém hoje!,Felicidade
-52,Acabei de ver um filme incrível que me deixou tão inspirado!,Felicidade
-53,A vida é cheia de aventuras emocionantes e estou pronto para elas!,Felicidade
-54,Estou tão feliz por ter tempo livre para fazer o que amo hoje!,Felicidade
-55,As pequenas coisas da vida são as que mais me fazem feliz!,Felicidade
-56,Acabei de receber uma mensagem de alguém que amo muito!,Felicidade
-57,Estou tão animado para ver o que o futuro reserva para mim!,Felicidade
-58,Acabei de receber um elogio incrível e me sinto nas nuvens!,Felicidade
-59,Estou tão grato por ter aprendido algo novo hoje!,Felicidade
-60,A vida é uma jornada maravilhosa e estou adorando cada momento!,Felicidade
-61,Acabei de ter uma refeição deliciosa e me sinto tão feliz!,Felicidade
-62,Estou tão feliz por ter um hobby que amo tanto!,Felicidade
-63,"Hoje foi um dia tão ensolarado e bonito, estou tão feliz!",Felicidade
-64,Acabei de ter uma conversa emocionante com um parente distante!,Felicidade
-65,Estou tão animado para começar um novo projeto empolgante!,Felicidade
-66,Estou tão feliz por ter um grupo de amigos incríveis que me apoiam sempre!,Felicidade
-67,Acabei de ter um dia de aventuras e risadas com minha família!,Felicidade
-68,Estou tão feliz por ter uma vida cheia de amor e felicidade!,Felicidade
-69,A vida é incrível e estou tão grato por tudo o que tenho!,Felicidade
-70,Acabei de receber uma notícia incrível que mudou meu dia para melhor!,Felicidade
-71,Estou tão animado para fazer algo novo e desafiador hoje!,Felicidade
-72,Hoje é um daqueles dias em que sinto que posso conquistar o mundo!,Felicidade
-73,Estou tão feliz por ter uma família amorosa e solidária!,Felicidade
-74,A felicidade está em apreciar as coisas simples da vida!,Felicidade
-75,Acabei de ter um momento de conexão profunda com alguém!,Felicidade
-76,Estou tão feliz por ter um emprego que me realiza e me faz feliz!,Felicidade
-77,A felicidade é contagiosa e estou animado para espalhá-la por aí!,Felicidade
-78,Acabei de ter um dia de autocuidado e me sinto tão revigorado!,Felicidade
-79,Estou tão grato por ter pessoas maravilhosas em minha vida!,Felicidade
-80,A vida é uma aventura incrível e estou adorando cada minuto dela!,Felicidade
-81,Acabei de receber uma mensagem de um amigo querido e me sinto tão feliz!,Felicidade
-82,A felicidade está em aproveitar as pequenas coisas da vida!,Felicidade
-83,Acabei de ter uma experiência incrível que nunca esquecerei!,Felicidade
-84,Estou tão feliz por ter um parceiro amoroso e carinhoso!,Felicidade
-85,A vida é cheia de surpresas maravilhosas e estou pronto para elas!,Felicidade
-86,Acabei de ter um dia de trabalho gratificante e me sinto tão realizado!,Felicidade
-87,Estou tão grato por ter um lugar seguro e confortável para dormir todas as noites!,Felicidade
-88,A felicidade está em aproveitar cada momento da vida!,Felicidade
-89,Acabei de ter uma conversa profunda e significativa com alguém!,Felicidade
-90,Estou tão feliz por ter amigos que me fazem rir e me animam sempre!,Felicidade
-91,Estou tão feliz que poderia pular de alegria!,Felicidade
-92,Eu sinto como se pudesse conquistar o mundo hoje!,Felicidade
-93,Estou tão feliz que não consigo parar de sorrir!,Felicidade
-94,Hoje é um dia maravilhoso para ser feliz!,Felicidade
-95,O sol está brilhando e o céu está azul - que dia perfeito!,Felicidade
-96,A felicidade é contagiosa - vamos espalhar mais dela!,Felicidade
-97,A vida é um presente e eu sou grato por cada momento!,Felicidade
-98,Não há nada melhor do que um dia cheio de risos e felicidade!,Felicidade
-99,A vida é bela e eu sinto muita gratidão por tudo que tenho!,Felicidade
-100,Eu vou ao supermercado hoje.,Felicidade
-101,O tempo está agradável lá fora.,Neutralidade
-102,Eu não tenho certeza do que quero comer para o jantar.,Neutralidade
-103,Acho que vou assistir a um filme hoje à noite.,Neutralidade
-104,Eu não tenho certeza se quero sair ou ficar em casa hoje.,Neutralidade
-105,Acho que preciso fazer compras de supermercado antes do final de semana.,Neutralidade
-106,Acho que vou escolher o sanduíche de peru hoje para o almoço.,Neutralidade
-107,"O tempo está bom lá fora, nem muito quente nem muito frio.",Neutralidade
-108,Acho que vou pegar o ônibus das 15h para ir para casa hoje.,Neutralidade
-109,"Hoje foi um dia como qualquer outro, sem grandes acontecimentos.",Neutralidade
-110,"Não estou triste nem feliz, apenas existindo neste momento.",Neutralidade
-111,"Às vezes, é bom ter um dia tranquilo e sem grandes emoções.",Neutralidade
-112,"Não há nada de especial acontecendo, apenas a rotina do dia a dia.",Neutralidade
-113,"Neste momento, não sinto nada em particular, apenas uma sensação de calma.",Neutralidade
-114,"Hoje não é um dia bom nem ruim, apenas um dia normal.",Neutralidade
-115,"Às vezes, é bom ter um momento de paz e tranquilidade em meio ao caos da vida.",Neutralidade
-116,"Nada de muito emocionante aconteceu hoje, mas isso não significa que seja um dia ruim.",Neutralidade
-117,"Neste momento, estou simplesmente presente e consciente do que está ao meu redor.",Neutralidade
-118,"Hoje é um dia sem grandes surpresas, apenas mais um dia na minha jornada.",Neutralidade
-119,"Às vezes, é bom ter um momento de silêncio em meio ao barulho do mundo.",Neutralidade
-120,"Não estou feliz nem triste, apenas vivendo o presente.",Neutralidade
-121,"Neste momento, não há nada de especial acontecendo, mas isso não significa que a vida seja chata.",Neutralidade
-122,"Hoje não é um dia emocionante, mas ainda assim, é um dia precioso que não voltará.",Neutralidade
-123,"Às vezes, é bom ter um dia sem grandes expectativas ou pressões.",Neutralidade
-124,"Não estou sentindo nada em particular, apenas fluindo com a vida.",Neutralidade
-125,"Neste momento, estou simplesmente presente, observando o mundo ao meu redor.",Neutralidade
-126,"Hoje é um dia sem grandes dramas ou conflitos, apenas um dia comum.",Neutralidade
-127,"Às vezes, é bom ter um momento de neutralidade em meio a tanta polarização.",Neutralidade
-128,"Neste momento, estou simplesmente sendo, sem julgamentos ou expectativas.",Neutralidade
-129,"Hoje é apenas um dia comum, sem nada de especial acontecendo.",Neutralidade
-130,"É uma situação neutra - nem boa, nem ruim.",Neutralidade
-131,"Nem tudo na vida pode ser emocionante - às vezes, é bom ter um pouco de tranquilidade.",Neutralidade
-132,Não tenho sentimentos fortes em relação a isso.,Neutralidade
-133,Não tenho opinião sobre isso.,Neutralidade
-134,"Não estou nem feliz, nem triste - estou simplesmente aqui.",Neutralidade
-135,"Estou apenas passando o tempo, sem muita emoção.",Neutralidade
-136,"Estou apenas observando, sem julgamentos.",Neutralidade
-137,Não há nada que me chame a atenção sobre isso.,Neutralidade
-138,Como alguém pode ser tão insensível e cruel?,Neutralidade
-139,Eu não posso acreditar que essa empresa é tão desonesta!,Raiva
-140,Estou tão irritado com essa situação injusta.,Raiva
-141,Não consigo acreditar que ele disse isso! Que falta de respeito!,Raiva
-142,Estou tão frustrado com o sistema político atual.,Raiva
-143,Essa situação é completamente absurda e injusta!,Raiva
-144,Não posso acreditar que ela tenha sido tão rude comigo na frente de todo mundo!,Raiva
-145,Estou tão cansado de lidar com pessoas desonestas e manipuladoras.,Raiva
-146,Essa situação é tão frustrante e estressante!,Raiva
-147,Estou furioso com a injustiça que vejo ao meu redor.,Raiva
-148,Não consigo suportar a hipocrisia e a falsidade das pessoas.,Raiva
-149,Estou cansado de ser ignorado e desrespeitado pelas pessoas ao meu redor.,Raiva
-150,Não aguento mais as mentiras e manipulações das pessoas.,Raiva
-151,Estou farto da corrupção e da falta de ética na política.,Raiva
-152,Não suporto mais a intolerância e o preconceito que vejo todos os dias.,Raiva
-153,Estou indignado com a crueldade e a violência que as pessoas são capazes de cometer.,Raiva
-154,Não aguento mais a incompetência e a falta de comprometimento das pessoas.,Raiva
-155,Estou enfurecido com a falta de empatia e compaixão das pessoas ao meu redor.,Raiva
-156,Não suporto mais a falta de respeito e consideração que as pessoas têm pelos outros.,Raiva
-157,Estou irado com a falta de justiça e equidade no mundo.,Raiva
-158,Não aguento mais a arrogância e o egocentrismo das pessoas.,Raiva
-159,Estou farto da falta de responsabilidade e compromisso das pessoas.,Raiva
-160,Não suporto mais a falta de educação e civilidade das pessoas ao meu redor.,Raiva
-161,Estou indignado com a falta de solidariedade e empatia das pessoas em tempos difíceis.,Raiva
-162,Não aguento mais a falta de transparência e honestidade nas relações pessoais e profissionais.,Raiva
-163,Estou enfurecido com a desigualdade e a discriminação que ainda existem no mundo.,Raiva
-164,Não suporto mais a falta de comprometimento com a preservação do meio ambiente.,Raiva
-165,Estou irado com a falta de senso de coletividade e responsabilidade social das pessoas.,Raiva
-166,Não aguento mais a falta de diálogo e entendimento entre as pessoas com opiniões diferentes.,Raiva
-167,Estou tão irritado que sinto que vou explodir!,Raiva
-168,Eu sinto como se estivesse fervendo em raiva!,Raiva
-169,Eu estou tão furioso que não consigo nem falar!,Raiva
-170,Essa situação me deixa tão frustrado que mal consigo aguentar!,Raiva
-171,Essa situação é completamente inaceitável!,Raiva
-172,Eu não mereço ser tratado assim e não vou tolerar esse comportamento!,Raiva
-173,Eu estou muito bravo com você agora!,Raiva
-174,Eu não consigo acreditar que isso está acontecendo!,Raiva
-175,Eu não estou brincando - isso está me fazendo perder a cabeça!,Raiva
-176,"Ótimo, mais um dia de trabalho das 9h às 18h, exatamente o que eu queria!",Raiva
-177,Eu te odeio!,Raiva
-178,Odeio Isso!,Raiva
-179,não quero mais conversar,Raiva
-180,não vou falar mais nada,Raiva
-181,quero que se foda!,Raiva
-182,para de me encher o saco,Raiva
-183,cacete!,Raiva
-184,vai se foder!,Raiva
-185,para com isso!,Raiva
-186,não vou mais te ajudar!,Raiva
-187,saia daqui agora,Raiva
-188,"Claro, porque a última coisa que eu queria era paz e tranquilidade hoje.",Sarcasmo
-189,"Sim, porque ficar preso no trânsito por horas é a minha ideia de diversão.",Sarcasmo
-190,"Oh, ótimo, mais um reunião inútil que vai durar horas!",Sarcasmo
-191,"Claro, porque não há nada que eu ame mais do que ficar preso no trânsito por horas.",Sarcasmo
-192,"Sim, porque esperar na fila do banco é a minha ideia de um momento divertido.",Sarcasmo
-193,"Ah, sim, eu adoro esperar em filas intermináveis ​​para comprar ingressos para um show!",Sarcasmo
-194,"Ótimo, mais um dia de trabalho chato e monótono, exatamente o que eu queria!",Sarcasmo
-195,"Claro, porque ficar preso em um elevador por horas é a minha ideia de diversão.",Sarcasmo
-196,"Claro, porque é totalmente normal agir assim em uma situação como essa.",Sarcasmo
-197,"Ah, sim, porque a vida é sempre justa e previsível.",Sarcasmo
-198,"Ótimo, mais uma coisa para deixar meu dia ainda mais incrível.",Sarcasmo
-199,"Que ideia brilhante, nunca pensei em fazer algo tão inteligente como isso antes.",Sarcasmo
-200,"Claro, porque é exatamente o que eu precisava para completar minha coleção de problemas.",Sarcasmo
-201,"Ah, sim, porque definitivamente é isso que eu queria fazer no meu tempo livre.",Sarcasmo
-202,"Perfeito, eu amo quando as coisas dão errado exatamente quando eu preciso delas.",Sarcasmo
-203,"Fantástico, mais uma oportunidade de lidar com a incompetência alheia.",Sarcasmo
-204,Incrível como as pessoas sempre conseguem me surpreender com sua falta de bom senso.,Sarcasmo
-205,"Maravilhoso, eu adoro quando as coisas saem do controle e tudo vira uma bagunça.",Sarcasmo
-206,"Ah, sim, porque é exatamente o que eu queria ouvir nesse momento.",Sarcasmo
-207,"Ótimo, mais uma oportunidade de lidar com a estupidez humana.",Sarcasmo
-208,"Brilhante, porque é assim que se resolve qualquer problema: ignorando-o completamente.",Sarcasmo
-209,"Fantástico, eu amo quando as pessoas me fazem perder tempo com coisas completamente inúteis.",Sarcasmo
-210,"Maravilhoso, mais uma oportunidade de lidar com a falta de ética e profissionalismo das pessoas.",Sarcasmo
-211,"Claro, porque é totalmente lógico fazer algo que não tem nenhum sentido.",Sarcasmo
-212,"Ótimo, mais uma oportunidade de lidar com a ignorância e a falta de conhecimento das pessoas.",Sarcasmo
-213,"Brilhante, porque é sempre uma boa ideia fazer algo que vai me trazer ainda mais problemas.",Sarcasmo
-214,"Maravilhoso, porque eu sempre quis lidar com pessoas que acham que sabem tudo.",Sarcasmo
-215,"Ah, sim, porque é assim que se resolve qualquer problema: fazendo nada e esperando que ele desapareça.",Sarcasmo
-216,"Oh, claro, porque isso é exatamente o que eu queria fazer hoje - passar o dia inteiro no telefone.",Sarcasmo
-217,"Claro, porque essa é definitivamente uma boa ideia.",Sarcasmo
-218,"Ah sim, porque nada diz ""experiência de usuário incrível"" como uma interface confusa e difícil de usar.",Sarcasmo
-219,"Sim, por favor, me diga mais sobre como você é o especialista em tudo.",Sarcasmo
-220,"Absolutamente, porque quem precisa de lógica e bom senso, não é mesmo?",Sarcasmo
-221,"Claro, porque eu adoro quando as coisas são complicadas e confusas.",Sarcasmo
-222,Eu amo quando as coisas dão errado - é o meu hobby favorito.,Sarcasmo
-223,"Oh, não, não precisa se preocupar comigo - eu adoro esperar por horas.",Sarcasmo
-224,"Oh, claro, porque o que eu realmente queria era mais drama na minha vida.",Sarcasmo
-225,Eu não posso acreditar que ele se foi tão cedo...,Sarcasmo
-226,Eu perdi meu cachorro hoje e meu coração está partido.,Tristeza
-227,O mundo parece tão cinza e sem graça agora...,Tristeza
-228,Eu perdi meu avô esta semana e sinto muito a falta dele.,Tristeza
-229,A vida às vezes pode parecer tão injusta e cruel.,Tristeza
-230,"Às vezes, é difícil encontrar uma luz no fim do túnel.",Tristeza
-231,Sinto muito a falta da minha casa antiga e da minha vida anterior.,Tristeza
-232,"Às vezes, é difícil não se sentir sozinho e isolado no mundo.",Tristeza
-233,É tão difícil lidar com a perda de um ente querido.,Tristeza
-234,"Às vezes, a vida pode ser tão difícil e dolorosa.",Tristeza
-235,"Eu só queria que as coisas fossem diferentes, mas parece que estou preso nesta tristeza.",Tristeza
-236,"Às vezes, parece que estou sozinho no mundo e que ninguém entende minha dor.",Tristeza
-237,"A tristeza é como uma nuvem escura que paira sobre mim, impedindo-me de ver a luz do sol.",Tristeza
-238,Sinto uma tristeza profunda que parece nunca desaparecer.,Tristeza
-239,"Às vezes, a tristeza é tão avassaladora que é difícil lidar com ela sozinho.",Tristeza
-240,"Às vezes, sinto que minha vida é apenas uma sucessão de perdas e decepções.",Tristeza
-241,A tristeza é como uma ferida aberta que nunca cicatriza completamente.,Tristeza
-242,"Às vezes, é difícil encontrar a esperança quando tudo parece tão sombrio.",Tristeza
-243,A tristeza é como uma prisão que me mantém cativo em meu próprio sofrimento.,Tristeza
-244,"Às vezes, sinto que estou afogando em um mar de tristeza e não consigo encontrar a superfície.",Tristeza
-245,A tristeza é uma emoção tão pesada e opressiva que parece esmagar meu espírito.,Tristeza
-246,"Às vezes, sinto que a tristeza é tudo o que resta quando a alegria desaparece.",Tristeza
-247,A tristeza é como uma sombra que me segue aonde quer que eu vá.,Tristeza
-248,"Às vezes, a tristeza é tão profunda que não consigo nem chorar.",Tristeza
-249,A tristeza é uma dor que parece não ter fim.,Tristeza
-250,"Às vezes, a tristeza é tão avassaladora que sinto que vou ser engolido por ela.",Tristeza
-251,A tristeza é como um nevoeiro espesso que obscurece minha visão do mundo.,Tristeza
-252,"Às vezes, sinto que a tristeza é tudo o que tenho, que não há mais nada em minha vida.",Tristeza
-253,A tristeza é como um buraco negro que suga toda a alegria e felicidade do universo.,Tristeza
-254,"Às vezes, a tristeza é tão profunda que sinto que nunca vou ser capaz de superá-la.",Tristeza
-255,A tristeza é uma emoção tão dolorosa que às vezes é difícil encontrar palavras para descrevê-la.,Tristeza
-256,Sinto como se o mundo estivesse desabando ao meu redor.,Tristeza
-257,A dor é real e às vezes é difícil de suportar.,Tristeza
-258,A tristeza é uma batalha constante que tenho que enfrentar todos os dias.,Tristeza
-259,"Às vezes, é difícil encontrar a luz no fim do túnel.",Tristeza
-260,Eu só quero me esconder debaixo das cobertas e não sair de lá.,Tristeza
-261,"Às vezes, é difícil encontrar a força para continuar.",Tristeza
-262,A tristeza é como uma nuvem negra que paira sobre mim.,Tristeza
-263,As lágrimas não param de cair e eu não consigo parar de sentir essa dor.,Tristeza
-264,Eu sinto falta da pessoa que costumava ser antes de tudo isso acontecer.,Tristeza
-265,Sinto uma tristeza profunda em meu coração.,Tristeza
-266,A solidão é o meu pior inimigo.,Tristeza
-267,Meu coração está partido em mil pedaços.,Tristeza
-268,Nada parece me alegrar ultimamente.,Tristeza
-269,Sinto como se estivesse preso em um poço sem fundo.,Tristeza
-270,Minha alma está cansada de tanta dor.,Tristeza
-271,Não consigo encontrar alegria em nada.,Tristeza
-272,Sinto falta de algo que nunca tive.,Tristeza
-273,As lágrimas não param de cair dos meus olhos.,Tristeza
-274,A vida perdeu todo o seu brilho.,Tristeza
-275,O vazio dentro de mim é insuportável.,Tristeza
-276,A tristeza parece ter se instalado em meu coração para sempre.,Tristeza
-277,Sinto como se estivesse sempre nadando contra a corrente.,Tristeza
-278,Não suporto mais essa sensação de angústia.,Tristeza
-279,Sinto como se estivesse perdido em um labirinto sem saída.,Tristeza
-280,A tristeza é uma nuvem escura que me acompanha aonde quer que eu vá.,Tristeza
-281,Meu coração está tão pesado que mal consigo respirar.,Tristeza
-282,"Às vezes, sinto como se estivesse vivendo em um pesadelo sem fim.",Tristeza
-283,Sinto como se estivesse cercado por uma névoa de tristeza.,Tristeza
-284,Minha vida parece um filme triste e sem fim.,Tristeza
-285,A solidão é um fardo pesado demais para carregar.,Tristeza
-286,Sinto falta de alguém que não está mais aqui.,Tristeza
-287,A tristeza é um buraco negro que suga toda a minha energia.,Tristeza
-288,Não consigo encontrar um motivo para sorrir.,Tristeza
-289,"Às vezes, a tristeza é tão forte que parece física.",Tristeza
-290,Sinto como se estivesse sempre lutando contra uma força invisível.,Tristeza
-291,Minha alma está cansada de tanto sofrimento.,Tristeza
-292,A tristeza é uma ferida aberta que nunca cicatriza.,Tristeza
-293,Sinto como se estivesse sempre vivendo na escuridão.,Tristeza
-294,A saudade é uma dor que nunca passa.,Tristeza
-295,Sinto como se estivesse sempre carregando um peso enorme nas costas.,Tristeza
-296,A tristeza é um vazio que nada pode preencher.,Tristeza
-297,Não consigo me livrar dessa sensação de desespero.,Tristeza
-298,Sinto como se estivesse sempre à beira do abismo.,Tristeza
-299,A tristeza é um inimigo que sempre volta para me assombrar.,Tristeza
-300,"Às vezes, sinto como se estivesse vivendo em um mundo sem cor.",Tristeza
-301,A dor é um companheiro constante.,Tristeza
-302,Sinto como se estivesse sempre sozinho em meio à multidão.,Tristeza
-303,A tristeza é um labirinto sem saída.,Tristeza
-304,Minha vida parece um livro triste que nunca acaba.,Tristeza
-305,"Às vezes, sinto como se estivesse preso em um sonho ruim.",Tristeza
-306,A tristeza é uma tempestade que nunca passa.,Tristeza
-307,Sinto como se estivesse sempre lutando contra mim mesmo.,Tristeza
-308,A dor é um fogo que queima por dentro.,Tristeza
-309,"Às vezes, sinto como se estivesse vivendo em um pesadelo acordado.",Tristeza
-310,A tristeza é uma ferida que nunca fecha.,Tristeza
-311,Sinto como se estivesse sempre no meio de uma tempestade.,Tristeza
-312,A solidão é uma dor que nenhum remédio pode curar.,Tristeza
-313,"Às vezes, sinto como se estivesse vivendo em um mundo de sombras.",Tristeza
-314,A tristeza é um veneno que se espalha pelo meu corpo.,Tristeza
-315,Sinto como se estivesse sempre em busca de algo que nunca encontrarei.,Tristeza
-316,A dor é um monstro que me consome lentamente.,Tristeza
-317,"Às vezes, sinto como se estivesse preso em uma gaiola invisível.",Tristeza
-318,A tristeza é um buraco negro que engole tudo o que há de bom em mim.,Tristeza
-319,Sinto como se estivesse sempre lutando contra uma maré forte.,Tristeza
-320,A solidão é uma ferida que nunca sara.,Tristeza
-321,"Às vezes, sinto como se estivesse vivendo em um mundo sem sentido.",Tristeza
-322,A tristeza é um fantasma que me assombra todas as noites.,Tristeza
-323,Sinto como se estivesse sempre no meio de uma batalha sem fim.,Tristeza
-324,A dor é um abismo que me suga para baixo.,Tristeza
-325,"Às vezes, sinto como se estivesse vivendo em um mundo de ilusão.",Tristeza
-326,A tristeza é um espinho que se aloja em meu coração.,Tristeza
-327,A solidão é um vazio que nada pode preencher.,Tristeza
-328,"Às vezes, sinto como se estivesse preso em um pesadelo sem fim.",Tristeza
-329,A tristeza é uma sombra que me segue aonde quer que eu vá.,Tristeza
-330,A dor é um fardo pesado demais para carregar.,Tristeza
-331,"Às vezes, sinto como se estivesse vivendo em um mundo de mentiras.",Tristeza
-332,A tristeza é um monstro que me assombra todas as noites.,Tristeza
-333,Sinto como se estivesse sempre à beira do precipício.,Tristeza
-334,A solidão é um mar sem fim.,Tristeza
-335,"Às vezes, sinto como se estivesse preso em um labirinto sem saída.",Tristeza
-336,A dor é um demônio que me persegue todos os dias.,Tristeza
-337,"Às vezes, sinto como se estivesse vivendo em um mundo sem esperança.",Tristeza
-338,A tristeza é um lobo solitário que uiva à noite.,Tristeza
-339,Sinto como se estivesse sempre lutando contra um vento forte.,Tristeza
-340,A solidão é um buraco negro que engole tudo o que há de bom em mim.,Tristeza
-341,A tristeza é um abismo que me suga para baixo.,Tristeza
-342,A dor é um fantasma que me assombra todas as noites.,Tristeza
-343,"Às vezes, sinto como se estivesse vivendo em um mundo sem amor.",Tristeza
-344,A tristeza é um monstro que me consome lentamente.,Tristeza
-345,A dor é um vício que não consigo largar.,Tristeza
-346,A solidão é um fogo que queima por dentro.,Tristeza
-347,A dor é um espinho que se aloja em meu coração.,Tristeza
-348,A tristeza me consome por dentro.,Tristeza
-349,A dor que sinto é insuportável.,Tristeza
-350,Não vejo a hora de acabar com essa dor.,Tristeza
-351,A solidão é uma companhia cruel.,Tristeza
-352,Sinto falta do que nunca tive.,Tristeza
-353,Meu mundo desmoronou diante dos meus olhos.,Tristeza
-354,Não consigo mais sorrir como antes.,Tristeza
-355,As lágrimas não param de cair.,Tristeza
-356,O vazio dentro de mim é enorme.,Tristeza
-357,Não há nada que possa me consolar.,Tristeza
-358,A tristeza é uma nuvem que me segue.,Tristeza
-359,Minha alma está cansada de tanto sofrer.,Tristeza
-360,Sinto uma dor que não passa.,Tristeza
-361,Meu coração está afundando em tristeza.,Tristeza
-362,A saudade dói demais.,Tristeza
-363,Não vejo mais sentido na vida.,Tristeza
-364,A dor é tão forte que não consigo respirar.,Tristeza
-365,Tudo ao meu redor parece cinza.,Tristeza
-366,Me sinto sozinho mesmo estando acompanhado.,Tristeza
-367,A tristeza é como uma ferida que não cicatriza.,Tristeza
-368,Sinto falta do que já não existe mais.,Tristeza
-369,O futuro parece sombrio e sem esperança.,Tristeza
-370,Não há nada que possa me fazer feliz de novo.,Tristeza
-371,A dor é tanta que não cabe em mim.,Tristeza
-372,Sinto que perdi tudo o que um dia tive.,Tristeza
-373,A tristeza é como uma doença que me consome.,Tristeza
-374,Não encontro forças para seguir em frente.,Tristeza
-375,A dor é como uma faca que corta minha alma.,Tristeza
-376,Sinto que nada mais faz sentido.,Tristeza
-377,A tristeza é como um buraco negro que me suga.,Tristeza
-378,Não consigo mais ver beleza nas coisas.,Tristeza
-379,A dor é como um fogo que queima sem parar.,Tristeza
-380,Meu coração está em pedaços.,Tristeza
-381,A tristeza é como um peso que carrego nas costas.,Tristeza
-382,Sinto falta de algo que nem sei o que é.,Tristeza
-383,Não há nada que possa me trazer de volta.,Tristeza
-384,A dor é como uma tempestade que não passa.,Tristeza
-385,Sinto que o mundo não é mais o mesmo.,Tristeza
-386,A tristeza é como uma prisão que me aprisiona.,Tristeza
-387,Não vejo mais luz no fim do túnel.,Tristeza
-388,A dor é como um veneno que me mata aos poucos.,Tristeza
-389,Sinto que perdi a mim mesmo.,Tristeza
-390,A tristeza é como uma sombra que me segue.,Tristeza
-391,Não há nada que possa preencher o vazio dentro de mim.,Tristeza
-392,A dor é como um abismo que me engole.,Tristeza
-393,Sinto que não tenho mais razões para viver.,Tristeza
-394,A tristeza é como um fantasma que me assombra.,Tristeza
-395,Não consigo mais encontrar a felicidade.,Tristeza
-396,A dor é como uma corda que me sufoca.,Tristeza
-397,Sinto que perdi a fé na vida.,Tristeza
-398,A tristeza é como um terremoto que abala minhas estruturas.,Tristeza
-399,Não há nada que possa me fazer esquecer.,Tristeza
-400,A dor é como um corte que não para de sangrar.,Tristeza
-401,Sinto que tudo o que eu tinha se foi.,Tristeza
-402,A tristeza é como um veneno que me envenena.,Tristeza
-403,Não vejo mais sentido em nada.,Tristeza
-404,A dor é como um martelo que me esmaga.,Tristeza
-405,Sinto que estou preso em um labirinto sem saída.,Tristeza
-406,A tristeza é como uma névoa que me cega.,Tristeza
-407,Não há nada que possa curar essa dor.,Tristeza
-408,A dor é como uma ferida que não cicatriza.,Tristeza
-409,Sinto que perdi a vontade de viver.,Tristeza
-410,Não consigo mais encontrar a luz.,Tristeza
-411,A dor é como um fardo que me pesa.,Tristeza
-412,Sinto que estou perdido em um mar de tristeza.,Tristeza
-413,A tristeza é como um furacão que me arrasta.,Tristeza
-414,A dor é como uma lança que me perfura.,Tristeza
-415,Sinto que estou em um beco sem saída.,Tristeza
-416,A tristeza é como uma tempestade que me assola.,Tristeza
-417,Não vejo mais saída para essa dor.,Tristeza
-418,A dor é como uma nuvem negra que me segue.,Tristeza
-419,Sinto que perdi o rumo da vida.,Tristeza
-420,A tristeza é como uma correnteza que me arrasta.,Tristeza
-421,Não há nada que possa me tirar desse abismo.,Tristeza
-422,A dor é como um tiro no peito.,Tristeza
-423,Sinto que tudo está perdido.,Tristeza
-424,A tristeza é como uma prisão sem grades.,Tristeza
-425,A dor é como um golpe que me derruba.,Tristeza
-426,Sinto que estou sozinho nesse mundo.,Tristeza
-427,A tristeza é como uma ferida que não sara.,Tristeza
-428,Não há nada que possa me devolver a esperança.,Tristeza
-429,A dor é como uma mão que aperta meu coração.,Tristeza
-430,Sinto que não tenho mais forças para lutar.,Tristeza
-431,Não consigo mais encontrar a alegria de viver.,Tristeza
-432,A dor é como um espinho que se crava em mim.,Tristeza
-433,Sinto que estou afundando em um mar de tristeza.,Tristeza
-434,A tristeza é como um labirinto sem saída.,Tristeza
-435,Não há nada que possa me fazer sorrir novamente.,Tristeza
-436,Sinto que perdi tudo o que um dia amei.,Tristeza
-437,A tristeza é como uma tempestade que não passa.,Tristeza
-438,Não consigo mais encontrar o caminho de volta.,Tristeza
-439,A dor é como um vazio que não pode ser preenchido.,Tristeza
-440,Sinto que estou perdido em um oceano de tristeza.,Tristeza
+1,Eu perdi meu cachorro hoje e meu coração está partido.,Tristeza
+2,O mundo parece tão cinza e sem graça agora...,Tristeza
+3,Eu perdi meu avô esta semana e sinto muito a falta dele.,Tristeza
+4,A vida às vezes pode parecer tão injusta e cruel.,Tristeza
+5,"Às vezes, é difícil encontrar uma luz no fim do túnel.",Tristeza
+6,Sinto muito a falta da minha casa antiga e da minha vida anterior.,Tristeza
+7,"Às vezes, é difícil não se sentir sozinho e isolado no mundo.",Tristeza
+8,É tão difícil lidar com a perda de um ente querido.,Tristeza
+9,"Às vezes, a vida pode ser tão difícil e dolorosa.",Tristeza
+10,"Eu só queria que as coisas fossem diferentes, mas parece que estou preso nesta tristeza.",Tristeza
+11,"Às vezes, parece que estou sozinho no mundo e que ninguém entende minha dor.",Tristeza
+12,"A tristeza é como uma nuvem escura que paira sobre mim, impedindo-me de ver a luz do sol.",Tristeza
+13,Sinto uma tristeza profunda que parece nunca desaparecer.,Tristeza
+14,"Às vezes, a tristeza é tão avassaladora que é difícil lidar com ela sozinho.",Tristeza
+15,"Às vezes, sinto que minha vida é apenas uma sucessão de perdas e decepções.",Tristeza
+16,A tristeza é como uma ferida aberta que nunca cicatriza completamente.,Tristeza
+17,"Às vezes, é difícil encontrar a esperança quando tudo parece tão sombrio.",Tristeza
+18,A tristeza é como uma prisão que me mantém cativo em meu próprio sofrimento.,Tristeza
+19,"Às vezes, sinto que estou afogando em um mar de tristeza e não consigo encontrar a superfície.",Tristeza
+20,A tristeza é uma emoção tão pesada e opressiva que parece esmagar meu espírito.,Tristeza
+21,"Às vezes, sinto que a tristeza é tudo o que resta quando a alegria desaparece.",Tristeza
+22,A tristeza é como uma sombra que me segue aonde quer que eu vá.,Tristeza
+23,"Às vezes, a tristeza é tão profunda que não consigo nem chorar.",Tristeza
+24,A tristeza é uma dor que parece não ter fim.,Tristeza
+25,"Às vezes, a tristeza é tão avassaladora que sinto que vou ser engolido por ela.",Tristeza
+26,A tristeza é como um nevoeiro espesso que obscurece minha visão do mundo.,Tristeza
+27,"Às vezes, sinto que a tristeza é tudo o que tenho, que não há mais nada em minha vida.",Tristeza
+28,A tristeza é como um buraco negro que suga toda a alegria e felicidade do universo.,Tristeza
+29,"Às vezes, a tristeza é tão profunda que sinto que nunca vou ser capaz de superá-la.",Tristeza
+30,A tristeza é uma emoção tão dolorosa que às vezes é difícil encontrar palavras para descrevê-la.,Tristeza
+31,Sinto como se o mundo estivesse desabando ao meu redor.,Tristeza
+32,A dor é real e às vezes é difícil de suportar.,Tristeza
+33,A tristeza é uma batalha constante que tenho que enfrentar todos os dias.,Tristeza
+34,"Às vezes, é difícil encontrar a luz no fim do túnel.",Tristeza
+35,Eu só quero me esconder debaixo das cobertas e não sair de lá.,Tristeza
+36,"Às vezes, é difícil encontrar a força para continuar.",Tristeza
+37,A tristeza é como uma nuvem negra que paira sobre mim.,Tristeza
+38,As lágrimas não param de cair e eu não consigo parar de sentir essa dor.,Tristeza
+39,Eu sinto falta da pessoa que costumava ser antes de tudo isso acontecer.,Tristeza
+40,Sinto uma tristeza profunda em meu coração.,Tristeza
+41,A solidão é o meu pior inimigo.,Tristeza
+42,Meu coração está partido em mil pedaços.,Tristeza
+43,Nada parece me alegrar ultimamente.,Tristeza
+44,Sinto como se estivesse preso em um poço sem fundo.,Tristeza
+45,Minha alma está cansada de tanta dor.,Tristeza
+46,Não consigo encontrar alegria em nada.,Tristeza
+47,Sinto falta de algo que nunca tive.,Tristeza
+48,As lágrimas não param de cair dos meus olhos.,Tristeza
+49,A vida perdeu todo o seu brilho.,Tristeza
+50,O vazio dentro de mim é insuportável.,Tristeza
+51,A tristeza parece ter se instalado em meu coração para sempre.,Tristeza
+52,Sinto como se estivesse sempre nadando contra a corrente.,Tristeza
+53,Não suporto mais essa sensação de angústia.,Tristeza
+54,Sinto como se estivesse perdido em um labirinto sem saída.,Tristeza
+55,A tristeza é uma nuvem escura que me acompanha aonde quer que eu vá.,Tristeza
+56,Meu coração está tão pesado que mal consigo respirar.,Tristeza
+57,"Às vezes, sinto como se estivesse vivendo em um pesadelo sem fim.",Tristeza
+58,Sinto como se estivesse cercado por uma névoa de tristeza.,Tristeza
+59,Minha vida parece um filme triste e sem fim.,Tristeza
+60,A solidão é um fardo pesado demais para carregar.,Tristeza
+61,Sinto falta de alguém que não está mais aqui.,Tristeza
+62,A tristeza é um buraco negro que suga toda a minha energia.,Tristeza
+63,Não consigo encontrar um motivo para sorrir.,Tristeza
+64,"Às vezes, a tristeza é tão forte que parece física.",Tristeza
+65,Sinto como se estivesse sempre lutando contra uma força invisível.,Tristeza
+66,Minha alma está cansada de tanto sofrimento.,Tristeza
+67,A tristeza é uma ferida aberta que nunca cicatriza.,Tristeza
+68,Sinto como se estivesse sempre vivendo na escuridão.,Tristeza
+69,A saudade é uma dor que nunca passa.,Tristeza
+70,Sinto como se estivesse sempre carregando um peso enorme nas costas.,Tristeza
+71,A tristeza é um vazio que nada pode preencher.,Tristeza
+72,Não consigo me livrar dessa sensação de desespero.,Tristeza
+73,Sinto como se estivesse sempre à beira do abismo.,Tristeza
+74,A tristeza é um inimigo que sempre volta para me assombrar.,Tristeza
+75,"Às vezes, sinto como se estivesse vivendo em um mundo sem cor.",Tristeza
+76,A dor é um companheiro constante.,Tristeza
+77,Sinto como se estivesse sempre sozinho em meio à multidão.,Tristeza
+78,A tristeza é um labirinto sem saída.,Tristeza
+79,Minha vida parece um livro triste que nunca acaba.,Tristeza
+80,"Às vezes, sinto como se estivesse preso em um sonho ruim.",Tristeza
+81,A tristeza é uma tempestade que nunca passa.,Tristeza
+82,Sinto como se estivesse sempre lutando contra mim mesmo.,Tristeza
+83,A dor é um fogo que queima por dentro.,Tristeza
+84,"Às vezes, sinto como se estivesse vivendo em um pesadelo acordado.",Tristeza
+85,A tristeza é uma ferida que nunca fecha.,Tristeza
+86,Sinto como se estivesse sempre no meio de uma tempestade.,Tristeza
+87,A solidão é uma dor que nenhum remédio pode curar.,Tristeza
+88,"Às vezes, sinto como se estivesse vivendo em um mundo de sombras.",Tristeza
+89,A tristeza é um veneno que se espalha pelo meu corpo.,Tristeza
+90,Sinto como se estivesse sempre em busca de algo que nunca encontrarei.,Tristeza
+91,A dor é um monstro que me consome lentamente.,Tristeza
+92,"Às vezes, sinto como se estivesse preso em uma gaiola invisível.",Tristeza
+93,A tristeza é um buraco negro que engole tudo o que há de bom em mim.,Tristeza
+94,Sinto como se estivesse sempre lutando contra uma maré forte.,Tristeza
+95,A solidão é uma ferida que nunca sara.,Tristeza
+96,"Às vezes, sinto como se estivesse vivendo em um mundo sem sentido.",Tristeza
+97,A tristeza é um fantasma que me assombra todas as noites.,Tristeza
+98,Sinto como se estivesse sempre no meio de uma batalha sem fim.,Tristeza
+99,A dor é um abismo que me suga para baixo.,Tristeza
+100,"Às vezes, sinto como se estivesse vivendo em um mundo de ilusão.",Tristeza
+101,A tristeza é um espinho que se aloja em meu coração.,Tristeza
+102,A solidão é um vazio que nada pode preencher.,Tristeza
+103,"Às vezes, sinto como se estivesse preso em um pesadelo sem fim.",Tristeza
+104,A tristeza é uma sombra que me segue aonde quer que eu vá.,Tristeza
+105,A dor é um fardo pesado demais para carregar.,Tristeza
+106,"Às vezes, sinto como se estivesse vivendo em um mundo de mentiras.",Tristeza
+107,A tristeza é um monstro que me assombra todas as noites.,Tristeza
+108,Sinto como se estivesse sempre à beira do precipício.,Tristeza
+109,A solidão é um mar sem fim.,Tristeza
+110,"Às vezes, sinto como se estivesse preso em um labirinto sem saída.",Tristeza
+111,A dor é um demônio que me persegue todos os dias.,Tristeza
+112,"Às vezes, sinto como se estivesse vivendo em um mundo sem esperança.",Tristeza
+113,A tristeza é um lobo solitário que uiva à noite.,Tristeza
+114,Sinto como se estivesse sempre lutando contra um vento forte.,Tristeza
+115,A solidão é um buraco negro que engole tudo o que há de bom em mim.,Tristeza
+116,A tristeza é um abismo que me suga para baixo.,Tristeza
+117,A dor é um fantasma que me assombra todas as noites.,Tristeza
+118,"Às vezes, sinto como se estivesse vivendo em um mundo sem amor.",Tristeza
+119,A tristeza é um monstro que me consome lentamente.,Tristeza
+120,A dor é um vício que não consigo largar.,Tristeza
+121,A solidão é um fogo que queima por dentro.,Tristeza
+122,A dor é um espinho que se aloja em meu coração.,Tristeza
+123,A tristeza me consome por dentro.,Tristeza
+124,A dor que sinto é insuportável.,Tristeza
+125,Não vejo a hora de acabar com essa dor.,Tristeza
+126,A solidão é uma companhia cruel.,Tristeza
+127,Sinto falta do que nunca tive.,Tristeza
+128,Meu mundo desmoronou diante dos meus olhos.,Tristeza
+129,Não consigo mais sorrir como antes.,Tristeza
+130,As lágrimas não param de cair.,Tristeza
+131,O vazio dentro de mim é enorme.,Tristeza
+132,Não há nada que possa me consolar.,Tristeza
+133,A tristeza é uma nuvem que me segue.,Tristeza
+134,Minha alma está cansada de tanto sofrer.,Tristeza
+135,Sinto uma dor que não passa.,Tristeza
+136,Meu coração está afundando em tristeza.,Tristeza
+137,A saudade dói demais.,Tristeza
+138,Não vejo mais sentido na vida.,Tristeza
+139,A dor é tão forte que não consigo respirar.,Tristeza
+140,Tudo ao meu redor parece cinza.,Tristeza
+141,Me sinto sozinho mesmo estando acompanhado.,Tristeza
+142,A tristeza é como uma ferida que não cicatriza.,Tristeza
+143,Sinto falta do que já não existe mais.,Tristeza
+144,O futuro parece sombrio e sem esperança.,Tristeza
+145,Não há nada que possa me fazer feliz de novo.,Tristeza
+146,A dor é tanta que não cabe em mim.,Tristeza
+147,Sinto que perdi tudo o que um dia tive.,Tristeza
+148,A tristeza é como uma doença que me consome.,Tristeza
+149,Não encontro forças para seguir em frente.,Tristeza
+150,A dor é como uma faca que corta minha alma.,Tristeza
+151,Sinto que nada mais faz sentido.,Tristeza
+152,A tristeza é como um buraco negro que me suga.,Tristeza
+153,Não consigo mais ver beleza nas coisas.,Tristeza
+154,A dor é como um fogo que queima sem parar.,Tristeza
+155,Meu coração está em pedaços.,Tristeza
+156,A tristeza é como um peso que carrego nas costas.,Tristeza
+157,Sinto falta de algo que nem sei o que é.,Tristeza
+158,Não há nada que possa me trazer de volta.,Tristeza
+159,A dor é como uma tempestade que não passa.,Tristeza
+160,Sinto que o mundo não é mais o mesmo.,Tristeza
+161,A tristeza é como uma prisão que me aprisiona.,Tristeza
+162,Não vejo mais luz no fim do túnel.,Tristeza
+163,A dor é como um veneno que me mata aos poucos.,Tristeza
+164,Sinto que perdi a mim mesmo.,Tristeza
+165,A tristeza é como uma sombra que me segue.,Tristeza
+166,Não há nada que possa preencher o vazio dentro de mim.,Tristeza
+167,A dor é como um abismo que me engole.,Tristeza
+168,Sinto que não tenho mais razões para viver.,Tristeza
+169,A tristeza é como um fantasma que me assombra.,Tristeza
+170,Não consigo mais encontrar a felicidade.,Tristeza
+171,A dor é como uma corda que me sufoca.,Tristeza
+172,Sinto que perdi a fé na vida.,Tristeza
+173,A tristeza é como um terremoto que abala minhas estruturas.,Tristeza
+174,Não há nada que possa me fazer esquecer.,Tristeza
+175,A dor é como um corte que não para de sangrar.,Tristeza
+176,Sinto que tudo o que eu tinha se foi.,Tristeza
+177,A tristeza é como um veneno que me envenena.,Tristeza
+178,Não vejo mais sentido em nada.,Tristeza
+179,A dor é como um martelo que me esmaga.,Tristeza
+180,Sinto que estou preso em um labirinto sem saída.,Tristeza
+181,A tristeza é como uma névoa que me cega.,Tristeza
+182,Não há nada que possa curar essa dor.,Tristeza
+183,A dor é como uma ferida que não cicatriza.,Tristeza
+184,Sinto que perdi a vontade de viver.,Tristeza
+185,Não consigo mais encontrar a luz.,Tristeza
+186,A dor é como um fardo que me pesa.,Tristeza
+187,Sinto que estou perdido em um mar de tristeza.,Tristeza
+188,A tristeza é como um furacão que me arrasta.,Tristeza
+189,A dor é como uma lança que me perfura.,Tristeza
+190,Sinto que estou em um beco sem saída.,Tristeza
+191,A tristeza é como uma tempestade que me assola.,Tristeza
+192,Não vejo mais saída para essa dor.,Tristeza
+193,A dor é como uma nuvem negra que me segue.,Tristeza
+194,Sinto que perdi o rumo da vida.,Tristeza
+195,A tristeza é como uma correnteza que me arrasta.,Tristeza
+196,Não há nada que possa me tirar desse abismo.,Tristeza
+197,A dor é como um tiro no peito.,Tristeza
+198,Sinto que tudo está perdido.,Tristeza
+199,A tristeza é como uma prisão sem grades.,Tristeza
+200,A dor é como um golpe que me derruba.,Tristeza
+201,Sinto que estou sozinho nesse mundo.,Tristeza
+202,A tristeza é como uma ferida que não sara.,Tristeza
+203,Não há nada que possa me devolver a esperança.,Tristeza
+204,A dor é como uma mão que aperta meu coração.,Tristeza
+205,Sinto que não tenho mais forças para lutar.,Tristeza
+206,Não consigo mais encontrar a alegria de viver.,Tristeza
+207,A dor é como um espinho que se crava em mim.,Tristeza
+208,Sinto que estou afundando em um mar de tristeza.,Tristeza
+209,A tristeza é como um labirinto sem saída.,Tristeza
+210,Não há nada que possa me fazer sorrir novamente.,Tristeza
+211,Sinto que perdi tudo o que um dia amei.,Tristeza
+212,A tristeza é como uma tempestade que não passa.,Tristeza
+213,Não consigo mais encontrar o caminho de volta.,Tristeza
+214,A dor é como um vazio que não pode ser preenchido.,Tristeza
+215,Sinto que estou perdido em um oceano de tristeza.,Tristeza
+216,eu sou a mãe mais triste do mundo jimin eu te amo demais ):),Tristeza
+217,mais uma sexta-feira de tristeza :),Tristeza
+218,Eu só queria não estar SEMPRE triste :) cansativo,Tristeza
+219,Deitada; Ouvindo músicas tristes; em pleno feriado Eu mesma rs :),Tristeza
+220,Ai já resolvi sobre os doces :) Sou a pessoa mais feliz e triste do mundo,Tristeza
+221,Aproveitando o estado de tristeza por eleição é problema familiar,Tristeza
+222,um tweet bem sincero. o meu coração se entristeceu pois nos últimos dias vi e escutei tantos absurdos... e para a minha saúde mental e paz,Tristeza
+223,vejo que tem muita gente triste na minha tml. gostaria de dizer que mesmo que não sejamos próximos,Tristeza
+224,Olha que delicia receber mensagem assim de bolsominion numa segunda feira chuvosa e triste! Facistas não passarão! Um ser desse não me atinge,Tristeza
+225,fico triste pa carai qando tweeto uma petição pela natireza ou pelos animais e ela tem tipo 200 visualizações mas só 2 cliqes no link. eu deveria aceitar q ninguém tá nem aí pra natureza pros animais ou qalqer coisa q n seja seu próprio umbigo :),Tristeza
+226,Problema que minha mãe fica triste,Tristeza
+227,Fiquei bué triste c aquilo mas prontos,Tristeza
+228,eu tô bastante triste agora,Tristeza
+229,Finalmente Uma Madruga Em Que Eu Não Estou Me Sentindo Triste :),Tristeza
+230,Eu só não sei mais como existir e isso tem sido triste :):,Tristeza
+231,Triste,Tristeza
+232,Me entristece ver que Ciro não ficou no Lugar de Haddad... Mas me Alegra saber que Daciolo Aqui tem mais moral que Alckmin :D :D,Tristeza
+233,Eu estava triste e devastada,Tristeza
+234,mt triste com a situ mas de barriga cheia com comidinha dlç que p victor fez :p,Tristeza
+235,tá triste? aí vou falar com a kamilla pra ela me dar conselhos mais amanhã finjo q ela não existe tá entediada? aí vou falar com a kamilla p gente fazer alguma coisa já que ninguém mais me deu atenção mais depois vou sair com quem tá cagando pra mim :),Tristeza
+236,vou chegar no cursinho amanhã com olheiras e tristeza :),Tristeza
+237,Para de ser triste cara as pessoas gostam muito de ti — Acho que eu sou míope de verdade pq eu nunca vejo essas pessoas,Tristeza
+238,Eu n teria capacidade pra ser mãe jovem. Tenho vergonha da minha sobrinha descobrir q vivo triste,Tristeza
+239,É triste demais fazer as coisas com tanto carinho e dedicação,Tristeza
+240,com sono e triste :),Tristeza
+241,Podem-me mandar mensagens fofinhas? Estou muito triste :)),Tristeza
+242,ÓTIMO tô nervosa/chateada/insegura/bolada/triste/e sei lá mais oque e agora minha gastrite tá dando sinais de vida :),Tristeza
+243,mto triste pq acordei tarde :P,Tristeza
+244,hoje de manhã fiquei bué triste porque andei à procura de roupa rosa e cheguei à conclusão de que não tenho nada :),Tristeza
+245,me deixa entristecida que meu inconsciente gritou e rasgou meu cu na análise e a fudida entendeu e escutou? não né mores :D "Que o caminho se faz. Entre o alvo e a seta",Tristeza
+246,Tava bué feliz por tar a ficar sem acne mas agora tenho três picadas de mosquito que me ocupam metade da cara e já tou triste outra vez :-),Tristeza
+247,Estou triste pq tenho prova de matemática hoje mas também estou feliz pq amanhã é depois não tenho aula :( :) é isso,Tristeza
+248,triste ir na casa de amigos e ver como a vida deles é boa e feliz enquanto vc é toda fudida e sua família é uma merda :))),Tristeza
+249,ótimo agr vou dormir triste e nem querendo acordar amanhã :D,Tristeza
+250,é bem complicado quando você não consegue se sentir segura das coisas. a insegurança te leva a pensar e fazer algumas merdas. é triste,Tristeza
+251,PARA DE FALAR DE POLÍTICA BANDO DE CHATO DO CARALHO,Raiva
+252,Rochele filha da puta. merecia uma coça,Raiva
+253,A CARA DAS FILHAS DA PUTA QUE TENTARAM TOMBAR O NOSSO SQUAD SEM MOTIVO,Raiva
+254,Mas aproveitando a deixa: você pode ser MACHISTA HOMOFOBICO MISOGINO XENOFOBICO RACISTA E UM BELO FILHA DA PUTA à vontade... todo mundo vai entender quando você abrir a boca pra vomitar a favor do BOZOnaro! :) #EleNão,Raiva
+255,Agorah falando de coisa séria Minha família não quer mais que eu me monte se o filha da puta lá se eleger pois: medo E eu fiquei tão triste afff :(,Raiva
+256,hj foi um dia que acordei triste angustiada e sem forças com todo esse cenário político e com esses carros cagando na rua com o adesivo desse filha da puta do caralho. ai to muito revoltada e desacreditada :((((,Raiva
+257,katia abreu filhadaputa doidona,Raiva
+258,amas ela eh tao linda.... :( FILHA DA PUTAAAAAA eu ainda gosto de tu.... desgraçada.,Raiva
+259,pros filhos da puta que acham que Rio é só favela :),Raiva
+260,ces entregaram essa merda de mão beijada. Obrigada filhos d'uma puta :),Raiva
+261,que vontade de esganar alguém ou matar um filho da puta a soco :),Raiva
+262,Chaves 2 - 2 filhos da puta :D,Raiva
+263,"""Então e és de onde? "" - :D ....... Santo André ""..... ??????"" - Sines? Santiago? ""Ah sim sim sim sim sim sim sim já sei"" Filhos da puta.",Raiva
+264,filho da puta :))))),Raiva
+265,Descobri que tô rodeado de filhos da putas que se dizem meus amigos mas querem sempre foder um pouquinho a mais minha vida :D,Raiva
+266,o haddad pra mim e a unica esperança de vdd que a gente possa tirar esse filho da puta dai e deixar esse longe da presidencia ver isso me deixa com tanto medo mano pfvr nao pode acontecer :(,Raiva
+267,tem horas que eu quero arrancar toda a pele do meu corpo de tanto nervoso :),Raiva
+268,vai tomar no cu porraaaaaa.... foda se caralho... Bando de merda!!! Tchau :),Raiva
+269,vai tomar no cu :),Raiva
+270,Aproveitando os últimos momentos de liberdade p mandar todo mundo tomar no cu,Raiva
+271,vou tomar no cu que tenho nem dinheiro pra ir pra outro estado quanto mais pra outro país kk :(,Raiva
+272,Indo dormir preocupadíssimo com os rumos que essa eleição ta tomando Tudo indica que aquele que não deve ser nomeado vai tomar o poder MESMO,Raiva
+273,Vai tomar no cu que saudade maldita :(,Raiva
+274,Toma no cu vídeo maldito n devia ter assistido :(,Raiva
+275,Vai tomar no cu lei do krl Haechan volta pfvr :((((,Raiva
+276,ser sapatao é uma batalha diária tomar no cu chorar fumar um e ri enquanto chora arrumar uma crush menor de idade e hétero :( mas continuar pensando no "amor da sua vida" DIARIAMENTE SOS meachuta,Raiva
+277,Burro é o povo daqui de baixo que é tudo pobre e se acha rico pra votar em um cara q quer mais é fuder mais c os pobres,Raiva
+278,2hrs e eu me declarando pra pessoa q eu gosto e tenho certeza q vou me fuder :),Raiva
+279,vou ser mesária em um dos colégios eleitorais mais escrotos do jurunas. vou me fuder valendo domingo! :),Raiva
+280,q vontade de mandar tudo mundo se fuder :),Raiva
+281,unica coisa boa dessas eleiçoes pra mim: comecei a meditar pq eu tava ficando louca agora estou calmissima mandando nazi se fuder hihi :),Raiva
+282,Antes eu tinha mó preocupação com as coisas q eu postava lá mas agr eu to foda-se posto oq quiser e se n gostar vai ter q me excluir :),Raiva
+283,Foda-se aula amanhã. Vou focar em ficar bem e dormir pra sempre. :),Raiva
+284,o pior foi que eu achei que era brincadeira e fiz um "hehehhehe ata" ai me toquei que n era pq ela continuou com o mesmo sorrisinho de "foda-se :)",Raiva
+285,Hoje gritei “foda-se” bue alto quando tava a dormir pelo o que a minha irma diz :),Raiva
+286,meu padrasto desligou o roteador pq eu tava cantando rap. 1 eu tenho plano foda-se a net dele 2 vai passar o dia todo sem internet,Raiva
+287,eu esqueci do mundial denovo galera :D foda-se esse ano ta uma merda mesmo capaz de alguém da europa ganhar esse ano KKKK que seja a fantix,Raiva
+288,ódio do meu wi-fi :),Raiva
+289,raiva de você,Raiva
+290,estou puto da vida com isso,Raiva
+291,vc não faz ideia da raiva que tenho de voce,Raiva
+292,Estou com raiva dessa pessoa,Raiva
+293,me da tanto ódio esperar por isso,Raiva
+294,"não quero mais que me enganem dessa forma, chega de ser besta!!",Raiva
+295,estou tão insatisfeito com meu serviço me da até raiva,Raiva
+296,"injustiça me causa uma furia tremenda, pqp",Raiva
+297,puta que pariu por que você é tão burro?,Raiva
+298,que raiva disso,Raiva
+299,ódio de quando estou dando meu melhor e não tenho reconhecimento!,Raiva
+300,"Por hora, a melhor coisa a fazer é parar de ser otário!",Raiva
+301,Tive um sonho que só de lembrar me deixa com raiva!!!! E to quase empurrando o Leonardo da cama :),Raiva
+302,nossa nesses últimos 2 dias eu ganhei 5 inimigos parabens vcs ganharam o lorenzo com raiva de vcs e isso n é uma coisa boa n :),Raiva
+303,gente gritem com a cara em um travesseiro/almofada ajuda muito a aliviar a raiva :),Raiva
+304,sinceramente eu sinta RAIVA de gente que paga de boa pessoa,Raiva
+305,Que raiva :),Raiva
+306,Eu posso até nao falar nada .. Mas eu sinto uns ciúmes loucos que meu corpo ferve de raiva ,Raiva
+307,to passando mtt raiva pq duas letras minhas que eram simples tão me dando mais trabalho que as trabalhosas :),Raiva
+308,Oh gente ces n tem noção da minha raiva q a uneb abriu pra isenção e n divulgou nada,Raiva
+309,Uma outra felicidade de hoje mas com um mix de raivafoi: errei so uma questão fechada da prova,Raiva
+310,este dia está a ser lindo desde q começou :))) q raiva,Raiva
+311,MORRO de raiva quando mando mil mensagens com mil assuntos diferentes e a pessoa resolve responder apenas o ultimo assunto :),Raiva
+312,Mas depois da raiva mortal que eu sinto,Raiva
+313,será que eu saio de casa pra passar raiva ou passo raiva em casa msm? :),Raiva
+314,eu tô com tanta tanta tanta tanta raiva que seria capaz de matar um :),Raiva
+315,Peguei Alice a força p aplicar a injeção contra raiva e ela tá com raiva de mim,Raiva
+316,Acabei de ter um ataque de raiva :),Raiva
+317,Tenho de tomar a vacina contra a raiva,Raiva
+318,Melhor palavra q a Sofia me ensinou: “Ranço”. Ranço para quem não sabe é usado para descrever o sentimento de raiva ou desprezo que uma pessoa pode ter por algo ou alguém. :))))),Raiva
+319,Eu to com tanta raiva pq meu pai acordou hj de boa,Raiva
+320,Com minha carteira de motorista e um cartão de crédito! :( mas o pior mesmo foi a bolsa! Aff que raiva,Raiva
+321,Comprei livros pelo site da Saraiva,Raiva
+322,Mas abrir os olhos de muita gente com relação a isso é que é o ponto! E essa galera que tem raiva do PT e não vota de jeito nenhum,Raiva
+323,ai que raiva,Raiva
+324,Meu prof tá doente não pode passar raiva :( KKkkk,Raiva
+325,me arrependo horrores dps de umas palavras impulsivas q saem no momento de raiva com minha mãe :(( mas ela tb não mede seus argumentos ofensivos,Raiva
+326,Que raiva desse tempo,Raiva
+327,Eu tô com tanta raiva de vc Q porra Inferno A única coisa q eu queria era te abraçar Mas porra mano SE TA FODA E FICA ANDANDO COM ESSAS PESSOAS TÓXICAS acho q tô perdendo um amigo :(,Raiva
+328,que raiva,Raiva
+329,to com raiva tá tudo flopando a :(,Raiva
+330,a julia tá c raiva de mim :(,Raiva
+331,Que raiva :(,Raiva
+332,meu irmao me da tudo oq eu quero e um pouco mais e eu só dou raiva pra ele q saco :( me sinto um lixo,Raiva
+333,Pessoas não podem votar porque têm medo ou raiva,Raiva
+334,Pessoas não podem votar porque têm medo ou porque têm raiva,Raiva
+335,vou desativar ate o fim das eleiçoes pra n cometer um crime de odio :),Raiva
+336,Odio ver penaltis :),Raiva
+337,Resumindo: qqer proposito exige que seja contada uma historia. E essa historia q os fãs vão acompanhar. Faça seu canal no youtube ser como um seriado da Netflix. Q os fãs esperem e queiram assistir o proximo episodio. :-),Raiva
+338,consertei o zap e agora a minha irma pego meu carregador e sp volta mais tarde odio :),Raiva
+339,Oi meninas to tendo um ataque de odio pois n consigo confiar em ninguém :))))))),Raiva
+340,otimo me fudi e n vou na terapia hj q eu tanto qria e precisava por conta dessa merda dessa chuva :) caralho q odio,Raiva
+341,Indi p minha faculdade movida a força do odio :),Raiva
+342,gente e serio eu to com muita dor no corpo kkk eu to muito tensionada por causa das eleições :( q odio,Raiva
+343,que odio eu queria MUITO falar com uma pessoa mas eu não tenho coragem :(,Raiva
+344,Odio no poder dormir :(,Raiva
+345,Odio no poder dormir por este dolor :(,Raiva
+346,Ptm como me odio &gt;:(,Raiva
+347,na moral to me esforçando mto pra assistir serie sozinho mas aparentemente preciso de uma companhia nao consigo ver mais q 1 episodio de uma vez eu fico me sentindo estranho nao sei explica falta algo e so consigo pensa q falta alguem pra comenta o episodio cmg :(,Raiva
+348,o jeongguk mesmo no escurinho é a coisa mais linda da minha vida queria tá ali do lado dele ouvindo aquela voz melodiosa e sentindo o coração saltar :(((,Raiva
+349,episodio 12 de banana fish e n tem mais pra assistir :(,Raiva
+350,eu juro qu o salnorabo eh o único ser humano q eu sinto um odio descomunal e q se morresse eu ia fica: que pena :(( Stan list ✨,Raiva
+351,Meu pai veio doar sangue e eu bem desconfortavel (e com odio) porque nao posso doar :(,Raiva
+352,Odio ser zurda,Raiva
+353,eu tô tão exausta e não consigo dormir que odio :(,Raiva
+354,PORRA PAULISTAS E PAULISTANOS (as)... DORIA E BOLSOLIXO..... QUE MERDA QUE VOCÊS TEM NA CABEÇA!!!! A MAIORIA DE VCS NÃO SÃO DA ELITE!! PARA DE FODER O BRASIL TODO MERDA!!! como diria o Chris VOCÊS SÃO POBRES E SOBERBOS #PrayForBrazil #FicaTemer Valeu Nordeste :),Raiva
+355,NÃO TE PERGUNTEI PORRA NENHUMA TLGD TO NA MINHA E VEM FALA BOSTA,Raiva
+356,porra :-) alguém me dá um tiro ou um cartucho da minha impressora,Raiva
+357,agr vao la viver a porra do romance ridiculo de vcs e parem de estragar e prejudicar pessoas q n tem nd a ver com vcs doisss :),Raiva
+358,PORRA PAQUETÁ,Raiva
+359,Que se foda a porra toda :D,Raiva
+360,eu para descobrir as coisas tenho porras,Raiva
+361,Tenho q dar ouvidos a porra da música da Dua Lipa :),Raiva
+362,sinto um ALÍVIO depois de ver um conteúdo q tava atrasado e do qual PRECISO saber n só pra prova mas pra vida tbm pq porra como assim cê n sabe isso bicha leiga acha bonito ser burra iara foi estudar nox faltando um mes pra prova :),Raiva
+363,:)) meu tio trouxe a duda de novo :)) sendo que eu não to nada bem pra ficar cuidando de criança :))))) vai toma no cu porra inferno vai se foder :))),Raiva
+364,entao n fode porra vai perturbar outro pq meu ouvido n eh penico :),Raiva
+365,Vamos CATAR esse Hexa porra,Raiva
+366,ex bom pra mim é ex FELIZ e bem longe de mim. LONGE DE MIM. Porém quando eu falo longe é BEM LONGE MESMO CARALHO COLOCA LONGE. :) loooonge pra porra :) bem longe. LONGE. L O N G E D E M I M L O N G E D E M I M *,Raiva
+367,ela responde que nada MAS CONTINUA OLHANDO PRA MIA FUCKING CARA não quero ser grossa a ponto de falar: para de olhar pra mim porra mas tirando isso,Raiva
+368,cês fica postando mene de comunismo toda hora por isso q o povo acha q saporra ainda existe/é uma ameaça. :P,Raiva
+369,Bom dia SÓ PRA QUEM VOTA NO CIRO o resto é “porra filha duma puta vota no ciroooooo” :),Raiva
+370,pena que esse ativismo de internet resolve porra nenhuma :),Raiva
+371,Meu dinheiro acabou e pergunte se eu paguei minha conta pra voltar a VIVO nesta porra de celular :))))),Raiva
+372,e é numa matéria que o pessoal dos outros semestres sempre diziam “mano a prova dela é mo fudida tem que estudar pra porra” aí eu fiquei “carai não consegui estudar to inteiro afundado na merda” no final ganhei um parabéns :))),Raiva
+373,Enfia Odisséia : Chacina NA PORRA DO CU. -Boa noite :),Raiva
+374,to atrasada e essa porra que nao baixa :D,Raiva
+375,acabei de assistir essa porra,Raiva
+376,não seja uma burra como eu que muda a data de nascimento e perde a porra da conta :),Raiva
+377,vim sem casaco pq tava um calor da porra ne agora ta mó frio prestes a chover amo porto alegre :),Raiva
+378,Quando assumir a presidencia pretendo criar o programa minha camisa de força minha vida... e implantar a adição de haldol na agua potavel das grandes cidades :) quem sabe depois da pra implantar o programa " leia uma porra de um livro de historia ,Raiva
+379,segunda vez que o instagram me manda um patrocínio do Led Zeppelin. porra,Raiva
+380,pelo menos alguém tem bom senso nessa porra :),Raiva
+381,passou dnvo essa porra e agora eu silenciei a conta :),Raiva
+382,oi vc é vc msm vai pra puta que pariu bb te amo desgraça do caralho vai se fude puta que pariu tu é lindx de mais me come caralho fode porra fofx de mais queria te abraça ate vc ficar sem ar :),Raiva
+383,porra sarah,Raiva
+384,to sozinha nessa porra e semre foi assim :D,Raiva
+385,MEU DEUS eu simplesmente tava esquecendo que tem uma porra de uma resenha pra entregar amanhã e a merda da parte que eu já fiz tá no pc do meu irmão só que ele viajou hj cedo e levou o pc tudo ótimo por aqui :),Raiva
+386,enviaram meu corta porra :),Raiva
+387,que ideia minha de sair c vestido numa ventania da porra e ainda por cima cai no meio da rua :),Raiva
+388,Tou num restaurante de sabores do Norte e tipo porra vou comer grande francesinha para me sentir em casa :),Raiva
+389,vai tomar no cu porraaaaaa.... foda se caralho... Bando de merda!!! Tchau :),Raiva
+390,CORRENTE DA VIOLÊNCIA! Quem curtir quer te moer na porrada! — quem curtir pode marcar data,Raiva
+391,Eu curto bue do Rafa mas vou dar-lhe porrada :) não é nada pessoal :),Raiva
+392,porra fica pegando doce e foda ja sou grande mais fooda se vo pega nao tem jeito :D,Raiva
+393,Organizando minha demanda no inicio do dia: Pronto! Tudo o que preciso fazer hoje :) '-' porra,Raiva
+394,Continuo a dizer. Todo dia um culé magoado aqui na rede. :) Supera porra,Raiva
+395,porra nunca vao fazer a segunda temporada de No Game No Life? poxa tô há 2 anos esperando :(,Raiva
+396,não foi hoje que desci a porrada num bolsonitro :(,Raiva
+397,eu SABIA que depois dessa merda de briga eu iria voltar a ser a excluída. mas suave né amigo é p isso mesmo :),Raiva
+398,Sou uma valente merda de pessoa :))))))))),Raiva
+399,o forno começou a deitar bue fumo..... acho q fiz merda :)),Raiva
+400,Segundo turno baita Tamo na merda :),Raiva
+401,ponho a vossa felicidade à frente da minha e depois admiro me de tar sempre na merda :),Raiva
+402,bom dia nesse país de merda do caralho :),Raiva
+403,Vou falar mesmo e não vou mais responder merda nenhuma,Raiva
+404,Fascistas de merda,Raiva
+405,meu eu n queria falar com ela.... se a bea fosse a merda :),Raiva
+406,Sou uma merda,Raiva
+407,Descobri q no proximo lab de SD tenho de levar a merda do programa preparadado :) a vida e ótima. Especialmente pq tenho dois testes nessa semana,Raiva
+408,eu to com MUITO sono mas n consigo dormir não paro de pensar na merda q tá pra vir e na vontade q to de falar com eidson :),Raiva
+409,o dia já está a ser uma merda e ainda nem começou :),Raiva
+410,#RealityShow baseado nas #Eleições2018 U.u uma casa com 10 participantes de um lado a equipe direita e do outro a equipe esquerda :) será que ia dar merda ¯\_(ツ)_/¯ não percam a estreia no próximo turno #VotaBrasil,Raiva
+411,|| A merda é quando tu tá TÃO cansado que não consegue dormir. :),Raiva
+412,que merda mas vai td ficar bem :),Raiva
+413,Até eu ficando quieto pra evitar dar merda eu faço merda :),Raiva
+414,minha irmã fez merda e eu q levei o rage da minha mãe olha q legal :),Raiva
+415,Tão bom ver que a galera curte as merdas que eu falo :),Raiva
+416,Ta tudo tão na merda ,Raiva
+417,Já que o país tá nessa merda,Raiva
+418,meu pai falando merda como sempre "eu só votei no bozonoralo pra vc ter um futuro melhor" pai assim,Raiva
+419,Eu não posso acreditar que essa empresa é tão desonesta!,Raiva
+420,Estou tão irritado com essa situação injusta.,Raiva
+421,Não consigo acreditar que ele disse isso! Que falta de respeito!,Raiva
+422,Estou tão frustrado com o sistema político atual.,Raiva
+423,Essa situação é completamente absurda e injusta!,Raiva
+424,Não posso acreditar que ela tenha sido tão rude comigo na frente de todo mundo!,Raiva
+425,Estou tão cansado de lidar com pessoas desonestas e manipuladoras.,Raiva
+426,Essa situação é tão frustrante e estressante!,Raiva
+427,Estou furioso com a injustiça que vejo ao meu redor.,Raiva
+428,Não consigo suportar a hipocrisia e a falsidade das pessoas.,Raiva
+429,Estou cansado de ser ignorado e desrespeitado pelas pessoas ao meu redor.,Raiva
+430,Não aguento mais as mentiras e manipulações das pessoas.,Raiva
+431,Estou farto da corrupção e da falta de ética na política.,Raiva
+432,Não suporto mais a intolerância e o preconceito que vejo todos os dias.,Raiva
+433,Estou indignado com a crueldade e a violência que as pessoas são capazes de cometer.,Raiva
+434,Não aguento mais a incompetência e a falta de comprometimento das pessoas.,Raiva
+435,Estou enfurecido com a falta de empatia e compaixão das pessoas ao meu redor.,Raiva
+436,Não suporto mais a falta de respeito e consideração que as pessoas têm pelos outros.,Raiva
+437,Estou irado com a falta de justiça e equidade no mundo.,Raiva
+438,Não aguento mais a arrogância e o egocentrismo das pessoas.,Raiva
+439,Estou farto da falta de responsabilidade e compromisso das pessoas.,Raiva
+440,Não suporto mais a falta de educação e civilidade das pessoas ao meu redor.,Raiva
+441,Estou indignado com a falta de solidariedade e empatia das pessoas em tempos difíceis.,Raiva
+442,Não aguento mais a falta de transparência e honestidade nas relações pessoais e profissionais.,Raiva
+443,Estou enfurecido com a desigualdade e a discriminação que ainda existem no mundo.,Raiva
+444,Não suporto mais a falta de comprometimento com a preservação do meio ambiente.,Raiva
+445,Estou irado com a falta de senso de coletividade e responsabilidade social das pessoas.,Raiva
+446,Não aguento mais a falta de diálogo e entendimento entre as pessoas com opiniões diferentes.,Raiva
+447,Estou tão irritado que sinto que vou explodir!,Raiva
+448,Eu sinto como se estivesse fervendo em raiva!,Raiva
+449,Eu estou tão furioso que não consigo nem falar!,Raiva
+450,Essa situação me deixa tão frustrado que mal consigo aguentar!,Raiva
+451,Essa situação é completamente inaceitável!,Raiva
+452,Eu não mereço ser tratado assim e não vou tolerar esse comportamento!,Raiva
+453,Eu estou muito bravo com você agora!,Raiva
+454,Eu não consigo acreditar que isso está acontecendo!,Raiva
+455,Eu não estou brincando - isso está me fazendo perder a cabeça!,Raiva
+456,"Ótimo, mais um dia de trabalho das 9h às 18h, exatamente o que eu queria!",Raiva
+457,Eu te odeio!,Raiva
+458,Odeio Isso!,Raiva
+459,não quero mais conversar,Raiva
+460,não vou falar mais nada,Raiva
+461,quero que se foda!,Raiva
+462,para de me encher o saco,Raiva
+463,cacete!,Raiva
+464,vai se foder!,Raiva
+465,para com isso!,Raiva
+466,não vou mais te ajudar!,Raiva
+467,saia daqui agora,Raiva
+468,Como você pode fazer isso comigo?,Raiva
+469,"Seu ordinário, não confio em você",Raiva
+470,Nunca mais quero te ver,Raiva
+471,Ele vai me pagar,Raiva
+472,Vocês serão cobrados,Raiva
+473,Assim que eu voltar terão o que merece,Raiva
+474,"Não aguento mais essa situação, estou cansado de ser pisoteado!",Raiva
+475,Você não tem noção do quanto está me irritando agora.,Raiva
+476,"Estou furioso com essa situação, é inaceitável!",Raiva
+477,"Eu não mereço isso, estou farto dessa falta de respeito.",Raiva
+478,"Não vou tolerar mais esse tipo de comportamento, chega!",Raiva
+479,Por que sempre tenho que lidar com pessoas tão incompetentes? Estou com raiva!,Raiva
+480,"Essa é a gota d'água, estou extremamente irritado com tudo isso.",Raiva
+481,"Não vou deixar que me tratem assim, estou com muita raiva!",Raiva
+482,"Estou tão irritado que mal consigo falar, é inaceitável essa falta de consideração.",Raiva
+483,"Já chega! Não aguento mais essa falta de respeito, estou com muita raiva!",Raiva
+484,Como alguém pode ser tão egoísta? Estou furioso com isso!,Raiva
+485,"Não quero nem ver a cara dessa pessoa, estou com muita raiva!",Raiva
+486,"Estou explodindo de raiva, é inaceitável essa situação.",Raiva
+487,"Nada me irrita mais do que pessoas irresponsáveis, estou com muita raiva!",Raiva
+488,"Estou com tanta raiva que mal consigo raciocinar, é uma falta de consideração enorme!",Raiva
+489,"Não aguento mais essa falta de comprometimento, estou furioso!",Raiva
+490,"Eu não mereço isso, estou cansado de ser desrespeitado.",Raiva
+491,"Já chega de tanta incompetência, estou com muita raiva!",Raiva
+492,"Estou extremamente irritado com essa falta de respeito, é inaceitável!",Raiva
+493,"Não suporto mais essa situação, estou com muita raiva!",Raiva
+494,Como alguém pode ser tão insensível? Estou furioso com isso!,Raiva
+495,"Estou farto dessa falta de consideração, é inaceitável essa situação.",Raiva
+496,"Não consigo acreditar que alguém possa ser tão incompetente, estou com muita raiva!",Raiva
+497,"Já cansei dessa falta de respeito, estou com muita raiva!",Raiva
+498,"Estou explodindo de raiva, essa situação é inaceitável!",Raiva
+499,"Não vou permitir que me tratem assim, estou com muita raiva!",Raiva
+500,"Estou com tanto ódio que mal consigo falar, é inaceitável essa situação!",Raiva
+501,O tempo está agradável lá fora.,Neutralidade
+502,Eu não tenho certeza do que quero comer para o jantar.,Neutralidade
+503,Acho que vou assistir a um filme hoje à noite.,Neutralidade
+504,Eu não tenho certeza se quero sair ou ficar em casa hoje.,Neutralidade
+505,Acho que preciso fazer compras de supermercado antes do final de semana.,Neutralidade
+506,Acho que vou escolher o sanduíche de peru hoje para o almoço.,Neutralidade
+507,"O tempo está bom lá fora, nem muito quente nem muito frio.",Neutralidade
+508,Acho que vou pegar o ônibus das 15h para ir para casa hoje.,Neutralidade
+509,"Hoje foi um dia como qualquer outro, sem grandes acontecimentos.",Neutralidade
+510,"Não estou triste nem feliz, apenas existindo neste momento.",Neutralidade
+511,"Às vezes, é bom ter um dia tranquilo e sem grandes emoções.",Neutralidade
+512,"Não há nada de especial acontecendo, apenas a rotina do dia a dia.",Neutralidade
+513,"Neste momento, não sinto nada em particular, apenas uma sensação de calma.",Neutralidade
+514,"Hoje não é um dia bom nem ruim, apenas um dia normal.",Neutralidade
+515,"Às vezes, é bom ter um momento de paz e tranquilidade em meio ao caos da vida.",Neutralidade
+516,"Nada de muito emocionante aconteceu hoje, mas isso não significa que seja um dia ruim.",Neutralidade
+517,"Neste momento, estou simplesmente presente e consciente do que está ao meu redor.",Neutralidade
+518,"Hoje é um dia sem grandes surpresas, apenas mais um dia na minha jornada.",Neutralidade
+519,"Às vezes, é bom ter um momento de silêncio em meio ao barulho do mundo.",Neutralidade
+520,"Não estou feliz nem triste, apenas vivendo o presente.",Neutralidade
+521,"Neste momento, não há nada de especial acontecendo, mas isso não significa que a vida seja chata.",Neutralidade
+522,"Hoje não é um dia emocionante, mas ainda assim, é um dia precioso que não voltará.",Neutralidade
+523,"Às vezes, é bom ter um dia sem grandes expectativas ou pressões.",Neutralidade
+524,"Não estou sentindo nada em particular, apenas fluindo com a vida.",Neutralidade
+525,"Neste momento, estou simplesmente presente, observando o mundo ao meu redor.",Neutralidade
+526,"Hoje é um dia sem grandes dramas ou conflitos, apenas um dia comum.",Neutralidade
+527,"Às vezes, é bom ter um momento de neutralidade em meio a tanta polarização.",Neutralidade
+528,"Neste momento, estou simplesmente sendo, sem julgamentos ou expectativas.",Neutralidade
+529,"Hoje é apenas um dia comum, sem nada de especial acontecendo.",Neutralidade
+530,"É uma situação neutra - nem boa, nem ruim.",Neutralidade
+531,"Nem tudo na vida pode ser emocionante - às vezes, é bom ter um pouco de tranquilidade.",Neutralidade
+532,Não tenho sentimentos fortes em relação a isso.,Neutralidade
+533,Não tenho opinião sobre isso.,Neutralidade
+534,"Não estou nem feliz, nem triste - estou simplesmente aqui.",Neutralidade
+535,"Estou apenas passando o tempo, sem muita emoção.",Neutralidade
+536,"Estou apenas observando, sem julgamentos.",Neutralidade
+537,Não há nada que me chame a atenção sobre isso.,Neutralidade
+538,Como alguém pode ser tão insensível e cruel?,Neutralidade
+539,vou sair do tt,Neutralidade
+540,O sol está brilhando no céu.,Neutralidade
+541,O relógio marca exatamente meio-dia.,Neutralidade
+542,Eu acabei de fazer uma pausa para o almoço.,Neutralidade
+543,O tráfego está fluindo normalmente nesta manhã.,Neutralidade
+544,A temperatura está agradável lá fora.,Neutralidade
+545,A reunião de hoje foi produtiva.,Neutralidade
+546,Não houve nada de interessante no jornal de hoje.,Neutralidade
+547,Eu acho que vou sair para dar uma volta depois do trabalho.,Neutralidade
+548,As flores estão desabrochando na primavera.,Neutralidade
+549,Eu tenho uma pilha de trabalho para terminar hoje.,Neutralidade
+550,Eu não sei o que fazer neste fim de semana.,Neutralidade
+551,O meu cachorro está dormindo tranquilamente.,Neutralidade
+552,"Hoje é quarta-feira, o meio da semana.",Neutralidade
+553,Eu não sinto nem alegria nem tristeza agora.,Neutralidade
+554,Acho que vou tomar uma xícara de café.,Neutralidade
+555,Eu não tenho opinião formada sobre esse assunto.,Neutralidade
+556,O tempo está nublado hoje.,Neutralidade
+557,Eu estou indo para a academia depois do trabalho.,Neutralidade
+558,Eu tenho uma reunião marcada para daqui a pouco.,Neutralidade
+559,Eu acabei de comprar um novo livro para ler.,Neutralidade
+560,Eu não estou com fome agora.,Neutralidade
+561,Eu acho que vou jantar fora hoje à noite.,Neutralidade
+562,Eu não estou muito animado para o feriado que está chegando.,Neutralidade
+563,A minha mesa de trabalho está um pouco bagunçada.,Neutralidade
+564,Eu não estou com pressa agora.,Neutralidade
+565,Eu acho que vou assistir a um filme esta noite.,Neutralidade
+566,Eu não tenho nada planejado para o fim de semana.,Neutralidade
+567,A minha agenda para o dia está bem organizada.,Neutralidade
+568,Eu não estou nem feliz nem triste agora.,Neutralidade
+569,O trânsito parece estar fluindo bem hoje.,Neutralidade
+570,Acho que vou experimentar uma nova receita para o jantar.,Neutralidade
+571,Eu não estou muito animado para a festa de aniversário de amanhã.,Neutralidade
+572,O dia está nublado hoje.,Neutralidade
+573,Eu sempre gosto de experimentar novas comidas quando viajo para lugares diferentes.,Neutralidade
+574,Eu gosto de ir ao cinema sozinho às vezes.,Neutralidade
+575,Eu acho que a melhor forma de estudar é encontrar um método que funcione para você.,Neutralidade
+576,Eu gosto de fazer caminhadas longas no final de semana.,Neutralidade
+577,Eu prefiro passar minhas férias em um lugar tranquilo e relaxante.,Neutralidade
+578,Eu gosto de assistir a programas de TV que me façam pensar.,Neutralidade
+579,Eu tento não julgar as pessoas com base em suas aparências.,Neutralidade
+580,Eu gosto de ouvir músicas de diferentes gêneros e estilos.,Neutralidade
+581,Eu sempre levo um livro comigo para ler durante os intervalos do trabalho.,Neutralidade
+582,Eu prefiro passar as tardes de domingo relaxando em casa.,Neutralidade
+583,Eu gosto de experimentar diferentes tipos de chá e café.,Neutralidade
+584,Eu acho que é importante manter uma mente aberta e estar disposto a aprender coisas novas.,Neutralidade
+585,Eu prefiro ir a restaurantes que tenham um ambiente tranquilo e agradável.,Neutralidade
+586,Eu sempre tento tratar as pessoas com respeito e compaixão.,Neutralidade
+587,Eu acho que a música é uma forma poderosa de expressar emoções e sentimentos.,Neutralidade
+588,Eu tento manter uma rotina de exercícios físicos regularmente.,Neutralidade
+589,Eu gosto de assistir a jogos de esportes ao vivo.,Neutralidade
+590,Eu acho que é importante ouvir diferentes perspectivas e opiniões sobre assuntos importantes.,Neutralidade
+591,Eu prefiro trabalhar em um ambiente silencioso e tranquilo.,Neutralidade
+592,Eu acredito que é importante ser honesto consigo mesmo e com os outros.,Neutralidade
+593,Eu gosto de cozinhar e experimentar novas receitas.,Neutralidade
+594,Eu prefiro ler livros de ficção científica e fantasia.,Neutralidade
+595,Eu tento encontrar um equilíbrio entre o trabalho e o lazer.,Neutralidade
+596,Eu acho que é importante ter um senso de humor saudável.,Neutralidade
+597,Eu gosto de planejar minhas tarefas e atividades com antecedência.,Neutralidade
+598,Eu tento ser objetivo e imparcial ao avaliar situações e eventos.,Neutralidade
+599,vou me matricular em uma universidade,Neutralidade
+600,O clima está agradável hoje.,Neutralidade
+601,"O novo filme do diretor é bom, mas não é excepcional.",Neutralidade
+602,Gosto de ouvir música enquanto trabalho.,Neutralidade
+603,Hoje vou jantar em um restaurante diferente.,Neutralidade
+604,Acho que vou de férias para a praia este ano.,Neutralidade
+605,"Eu prefiro chá a café, mas os dois são bons.",Neutralidade
+606,A estrada para o trabalho é sempre movimentada neste horário.,Neutralidade
+607,Gosto de ler antes de dormir.,Neutralidade
+608,Acho que é importante praticar exercícios físicos regularmente.,Neutralidade
+609,O computador que uso para trabalhar é rápido e eficiente.,Neutralidade
+610,As árvores estão começando a florescer nesta época do ano.,Neutralidade
+611,Sempre tomo café da manhã antes de sair de casa.,Neutralidade
+612,É bom ter um hobby para relaxar depois do trabalho.,Neutralidade
+613,A cidade é grande e tem muitos lugares interessantes para visitar.,Neutralidade
+614,Gosto de cozinhar para minha família nos finais de semana.,Neutralidade
+615,Preciso fazer algumas compras no supermercado hoje.,Neutralidade
+616,Acho que vou pintar minha casa de outra cor.,Neutralidade
+617,"A chuva está forte lá fora, melhor levar um guarda-chuva.",Neutralidade
+618,É importante ter uma boa noite de sono para se sentir bem no dia seguinte.,Neutralidade
+619,Preciso atualizar meu currículo para procurar um novo emprego.,Neutralidade
+620,Acho que vou convidar alguns amigos para jantar em casa.,Neutralidade
+621,"O livro que estou lendo é interessante, mas um pouco cansativo.",Neutralidade
+622,Acho que vou caminhar um pouco no parque para relaxar.,Neutralidade
+623,Gosto de assistir séries de TV nas minhas horas vagas.,Neutralidade
+624,Hoje estou com vontade de comer algo diferente no almoço.,Neutralidade
+625,"Preciso de um novo celular, o meu já está ultrapassado.",Neutralidade
+626,Acho que vou experimentar uma nova receita de sobremesa.,Neutralidade
+627,"O trânsito está normal hoje, sem muitos engarrafamentos.",Neutralidade
+628,Estou planejando uma viagem para o exterior no próximo ano.,Neutralidade
+629,hoje ao sair avistei um carro amarelho,Neutralidade
+630,acho que é melhor fazer dessa forma para não ter erro,Neutralidade
+631,sabendo disso agora sei o que fazer,Neutralidade
+632,quando fui a praia vi a area branca,Neutralidade
+633,A temperatura está agradável hoje.,Neutralidade
+634,O café da manhã está pronto.,Neutralidade
+635,Estou aguardando a resposta do e-mail.,Neutralidade
+636,A planta está precisando de água.,Neutralidade
+637,"O dia está nublado, mas sem chuva.",Neutralidade
+638,A aula começa em 10 minutos.,Neutralidade
+639,O trânsito está fluindo normalmente.,Neutralidade
+640,Estou lendo um livro interessante.,Neutralidade
+641,A reunião foi marcada para as 14h.,Neutralidade
+642,Preciso comprar leite e pão no supermercado.,Neutralidade
+643,A roupa está precisando ser lavada.,Neutralidade
+644,A janela está aberta e entra um pouco de vento.,Neutralidade
+645,A praia está vazia hoje.,Neutralidade
+646,O trabalho precisa ser entregue até amanhã.,Neutralidade
+647,A música que estou ouvindo é bem calma.,Neutralidade
+648,O programa de TV está na pausa comercial.,Neutralidade
+649,A cadeira está um pouco desconfortável.,Neutralidade
+650,"A comida no restaurante é boa, mas o preço é um pouco alto.",Neutralidade
+651,Estou assistindo um documentário interessante na TV.,Neutralidade
+652,O celular precisa ser carregado.,Neutralidade
+653,O elevador está chegando no meu andar.,Neutralidade
+654,A caneta que estou usando está começando a falhar.,Neutralidade
+655,A biblioteca fica aberta até as 18h.,Neutralidade
+656,A água da torneira está saindo limpa.,Neutralidade
+657,A planilha do Excel está com muitos dados.,Neutralidade
+658,O computador precisa ser atualizado.,Neutralidade
+659,A paisagem da janela é bonita.,Neutralidade
+660,A temperatura da água está morna.,Neutralidade
+661,Estou com um pouco de fome.,Neutralidade
+662,A rua está um pouco movimentada.,Neutralidade
+663,A agenda está cheia de compromissos hoje.,Neutralidade
+664,O relógio está adiantado.,Neutralidade
+665,Estou pensando em sair para caminhar um pouco.,Neutralidade
+666,minha planta esta crescendo a cada dia,Neutralidade
+667,olhei a rua e o asfalto é novo,Neutralidade
+668,tenho um compromisso hoje naquele lugar que fui anteriormente,Neutralidade
+669,possivelmente choverá hoje,Neutralidade
+670,"ambiguidade é algo que tenha dois significados para a mesma coisa, quase como se fosse redundante",Neutralidade
+671,A temperatura está agradável hoje.,Neutralidade
+672,O trânsito está fluindo normalmente.,Neutralidade
+673,A reunião de hoje foi produtiva.,Neutralidade
+674,As notícias de hoje são bastante variadas.,Neutralidade
+675,Os preços no supermercado estão estáveis.,Neutralidade
+676,A paisagem do local é bastante bonita.,Neutralidade
+677,O programa de TV está passando sem muitas interrupções.,Neutralidade
+678,A música ambiente no restaurante está agradável.,Neutralidade
+679,A decoração da sala é bastante neutra.,Neutralidade
+680,A qualidade do produto é bastante satisfatória.,Neutralidade
+681,O parque está vazio neste momento.,Neutralidade
+682,O clima está ameno nesta época do ano.,Neutralidade
+683,A apresentação do palestrante foi bem organizada.,Neutralidade
+684,O sabor da comida é bastante equilibrado.,Neutralidade
+685,A qualidade do atendimento no hotel é razoável.,Neutralidade
+686,As roupas da loja são bastante comuns.,Neutralidade
+687,O ambiente da festa está agradável.,Neutralidade
+688,O preço do produto está dentro da média do mercado.,Neutralidade
+689,O conteúdo da aula é bastante objetivo.,Neutralidade
+690,O voo está previsto para chegar no horário.,Neutralidade
+691,O tamanho da porção é adequado.,Neutralidade
+692,A qualidade do serviço é bastante regular.,Neutralidade
+693,O design do produto é bastante simples.,Neutralidade
+694,A temperatura do café está boa.,Neutralidade
+695,A loja está aberta no horário previsto.,Neutralidade
+696,A apresentação do relatório foi clara e objetiva.,Neutralidade
+697,O desempenho do atleta foi satisfatório.,Neutralidade
+698,O acabamento do produto é bastante comum.,Neutralidade
+699,O clima está um pouco abafado hoje.,Neutralidade
+700,O serviço de entrega foi dentro do prazo estipulado.,Neutralidade
+701,A textura do tecido é bastante comum.,Neutralidade
+702,O cardápio do restaurante é bastante variado.,Neutralidade
+703,O processo de seleção foi bem conduzido.,Neutralidade
+704,O atendimento no call center é razoável.,Neutralidade
+705,O tempo de espera na fila é bastante curto.,Neutralidade
+706,A forma do objeto é bastante simples.,Neutralidade
+707,A aparência do prato é bastante comum.,Neutralidade
+708,"o amor é assim, é a paz de Deus que nunca acaba",Neutralidade
+709,livre pra poder sorrir e livre para poder voar,Neutralidade
+710,nossas vidas e nossos sonhos tem o mesmo valor,Neutralidade
+711,eu vou com você aonde você for,Neutralidade
+712,eu descobri que é azul a cor da parede da casa de Deus,Neutralidade
+713,não há mais ninguem como você e eu,Neutralidade
+714,esperando o onibus da escola,Neutralidade
+715,O céu está nublado hoje.,Neutralidade
+716,Ainda não decidi o que vou fazer no final de semana.,Neutralidade
+717,O relógio está marcando exatamente 13:00.,Neutralidade
+718,O livro que estou lendo tem 300 páginas.,Neutralidade
+719,Eu gosto de comer pizza de margherita.,Neutralidade
+720,Foi bom ter te encontrado na rua hoje.,Neutralidade
+721,Eu acordei às 7h da manhã hoje.,Neutralidade
+722,"Acho que vou usar uma roupa mais leve hoje, pois o dia está quente.",Neutralidade
+723,"O filme que eu vi ontem à noite foi mediano, nem tão bom, nem tão ruim.",Neutralidade
+724,Hoje vou trabalhar das 9h às 18h.,Neutralidade
+725,Eu preciso ir ao supermercado comprar algumas coisas.,Neutralidade
+726,"Estou pensando em fazer uma viagem no final do ano, mas ainda não decidi para onde.",Neutralidade
+727,Acho que vou pedir uma pizza para o jantar hoje à noite.,Neutralidade
+728,Eu gosto de ouvir música clássica de vez em quando.,Neutralidade
+729,Acho que vou sair para caminhar um pouco no parque.,Neutralidade
+730,"O trânsito está tranquilo hoje, não encontrei nenhuma dificuldade para chegar até aqui.",Neutralidade
+731,Acho que vou comprar um presente para meu amigo que está fazendo aniversário.,Neutralidade
+732,Eu gosto de acordar cedo e aproveitar a manhã.,Neutralidade
+733,"Não tenho preferência por um tipo de música em especial, escuto de tudo um pouco.",Neutralidade
+734,"Hoje estou com um pouco de preguiça de ir à academia, mas acho que vou acabar indo mesmo assim.",Neutralidade
+735,Estou lendo um livro interessante no momento.,Neutralidade
+736,Eu gosto de tomar café da manhã com calma antes de começar o dia.,Neutralidade
+737,Acho que vou fazer uma pausa agora e tomar um café.,Neutralidade
+738,"Está fazendo um tempo agradável hoje, nem muito quente nem muito frio.",Neutralidade
+739,Eu gosto de assistir a filmes de comédia para relaxar.,Neutralidade
+740,Acho que vou trabalhar em casa hoje para variar um pouco.,Neutralidade
+741,Não tenho nada planejado para,Neutralidade
+742,rezando baixo pelos cantos,Neutralidade
+743,quem sabe o principe virou um chato,Neutralidade
+744,a vida é um sonho e eu só peço a deus um pouco de malandragem,Neutralidade
+745,sou criança e não conheço a verdade,Neutralidade
+746,sou poeta e não aprendi a amar,Neutralidade
+747,bobeira é não viver a realidade e eu ainda tenho uma tarde inteira,Neutralidade
+748,eu ando nas ruas e troco o cheque mudando uma planta de lugar,Neutralidade
+749,dirijo meu carro e tomo meu pileque,Neutralidade
+750,ainda tenho tempo pra cantar so pedindo um pouco de malandragem,Neutralidade
+751,Felicidade é o que me veste hoje. #psootd #gratidao #amordaminhavida #englishteacher #trabalho em Aracaju,Felicidade
+752,Aquele felicidade de acordar e ir trabalhar ,Felicidade
+753,Saber encontrar alegria na alegria dos outros é o segredo da felicidade individual,Felicidade
+754,Eu finalmente consegui o emprego dos meus sonhos!,Felicidade
+755,A sensação de sol na minha pele é incrível!,Felicidade
+756,Estou tão feliz em ver você depois de tanto tempo!,Felicidade
+757,Estou tão animado para começar minhas férias!,Felicidade
+758,Acabei de receber a notícia de que fui aceito na minha universidade dos sonhos!,Felicidade
+759,As cores do pôr do sol são simplesmente maravilhosas!,Felicidade
+760,Finalmente posso comemorar meu aniversário com meus amigos e familiares novamente!,Felicidade
+761,Acabei de receber uma promoção no trabalho que eu tanto queria!,Felicidade
+762,Estou tão grato por ter uma vida feliz e saudável!,Felicidade
+763,Acabei de receber uma carta de aceitação da faculdade!,Felicidade
+764,Finalmente consegui me livrar desse projeto estressante!,Felicidade
+765,A música que acabei de ouvir me fez sentir tão bem!,Felicidade
+766,As flores na primavera são tão bonitas!,Felicidade
+767,Estou tão animado para viajar para um lugar novo no próximo mês!,Felicidade
+768,"Hoje foi um dia tão produtivo, me sinto realizado!",Felicidade
+769,Estou tão feliz por ter amigos e familiares incríveis!,Felicidade
+770,Acabei de descobrir que ganhei um prêmio na loteria!,Felicidade
+771,Acho que encontrei o amor da minha vida!,Felicidade
+772,Finalmente posso dizer que estou onde quero estar na vida!,Felicidade
+773,Apenas fizemos uma viagem incrível para um lugar paradisíaco!,Felicidade
+774,Terminei um livro incrível e agora me sinto inspirado!,Felicidade
+775,Estou tão grato por ter uma família carinhosa e um lar acolhedor!,Felicidade
+776,Acordei sentindo uma energia tão boa hoje!,Felicidade
+777,A música é capaz de me fazer feliz em qualquer situação!,Felicidade
+778,Consegui completar um desafio difícil e me sinto incrível!,Felicidade
+779,Estou tão empolgado para aprender uma nova habilidade!,Felicidade
+780,Recebi uma notícia incrível hoje que me deixou tão feliz!,Felicidade
+781,As crianças sempre me fazem sentir tão feliz e animado!,Felicidade
+782,Acabei de ver um belo pôr do sol e me sinto tão grato!,Felicidade
+783,Finalmente consegui comprar aquilo que queria há tanto tempo!,Felicidade
+784,Estou tão feliz por ter pessoas incríveis em minha vida!,Felicidade
+785,Acabei de receber uma surpresa incrível de alguém especial!,Felicidade
+786,Estou tão feliz por poder ter um tempo para mim mesmo hoje!,Felicidade
+787,Apenas tive uma ótima reunião com minha equipe e estou animado para o futuro!,Felicidade
+788,Meu time favorito acabou de ganhar um jogo importante!,Felicidade
+789,Estou tão grato por ter boa saúde e energia!,Felicidade
+790,A vida é bela e estou aproveitando cada momento dela!,Felicidade
+791,Estou tão feliz por ter uma carreira que amo!,Felicidade
+792,Acabei de ter uma conversa inspiradora com um amigo!,Felicidade
+793,"Hoje foi um dia tão especial, estou transbordando de felicidade!",Felicidade
+794,Acabei de receber um abraço reconfortante de alguém que amo!,Felicidade
+795,Estou tão animado para tentar algo novo e desafiador!,Felicidade
+796,Estou tão feliz por ter um círculo íntimo de amigos confiáveis!,Felicidade
+797,Hoje é um daqueles dias em que tudo está dando certo!,Felicidade
+798,A gratidão é a chave para a felicidade e estou grato por tanto!,Felicidade
+799,Estou tão feliz por ter uma casa quente e segura para chamar de lar!,Felicidade
+800,A simplicidade da vida é algo que me faz feliz todos os dias!,Felicidade
+801,Acabei de fazer algo incrível que nunca pensei ser possível!,Felicidade
+802,Estou tão animado para ver um amigo que não vejo há muito tempo!,Felicidade
+803,Hoje é um daqueles dias em que tudo parece possível!,Felicidade
+804,Estou tão feliz por ter a oportunidade de ajudar alguém hoje!,Felicidade
+805,Acabei de ver um filme incrível que me deixou tão inspirado!,Felicidade
+806,A vida é cheia de aventuras emocionantes e estou pronto para elas!,Felicidade
+807,Estou tão feliz por ter tempo livre para fazer o que amo hoje!,Felicidade
+808,As pequenas coisas da vida são as que mais me fazem feliz!,Felicidade
+809,Acabei de receber uma mensagem de alguém que amo muito!,Felicidade
+810,Estou tão animado para ver o que o futuro reserva para mim!,Felicidade
+811,Acabei de receber um elogio incrível e me sinto nas nuvens!,Felicidade
+812,Estou tão grato por ter aprendido algo novo hoje!,Felicidade
+813,A vida é uma jornada maravilhosa e estou adorando cada momento!,Felicidade
+814,Acabei de ter uma refeição deliciosa e me sinto tão feliz!,Felicidade
+815,Estou tão feliz por ter um hobby que amo tanto!,Felicidade
+816,"Hoje foi um dia tão ensolarado e bonito, estou tão feliz!",Felicidade
+817,Acabei de ter uma conversa emocionante com um parente distante!,Felicidade
+818,Estou tão animado para começar um novo projeto empolgante!,Felicidade
+819,Estou tão feliz por ter um grupo de amigos incríveis que me apoiam sempre!,Felicidade
+820,Acabei de ter um dia de aventuras e risadas com minha família!,Felicidade
+821,Estou tão feliz por ter uma vida cheia de amor e felicidade!,Felicidade
+822,A vida é incrível e estou tão grato por tudo o que tenho!,Felicidade
+823,Acabei de receber uma notícia incrível que mudou meu dia para melhor!,Felicidade
+824,Estou tão animado para fazer algo novo e desafiador hoje!,Felicidade
+825,Hoje é um daqueles dias em que sinto que posso conquistar o mundo!,Felicidade
+826,Estou tão feliz por ter uma família amorosa e solidária!,Felicidade
+827,A felicidade está em apreciar as coisas simples da vida!,Felicidade
+828,Acabei de ter um momento de conexão profunda com alguém!,Felicidade
+829,Estou tão feliz por ter um emprego que me realiza e me faz feliz!,Felicidade
+830,A felicidade é contagiosa e estou animado para espalhá-la por aí!,Felicidade
+831,Acabei de ter um dia de autocuidado e me sinto tão revigorado!,Felicidade
+832,Estou tão grato por ter pessoas maravilhosas em minha vida!,Felicidade
+833,A vida é uma aventura incrível e estou adorando cada minuto dela!,Felicidade
+834,Acabei de receber uma mensagem de um amigo querido e me sinto tão feliz!,Felicidade
+835,A felicidade está em aproveitar as pequenas coisas da vida!,Felicidade
+836,Acabei de ter uma experiência incrível que nunca esquecerei!,Felicidade
+837,Estou tão feliz por ter um parceiro amoroso e carinhoso!,Felicidade
+838,A vida é cheia de surpresas maravilhosas e estou pronto para elas!,Felicidade
+839,Acabei de ter um dia de trabalho gratificante e me sinto tão realizado!,Felicidade
+840,Estou tão grato por ter um lugar seguro e confortável para dormir todas as noites!,Felicidade
+841,A felicidade está em aproveitar cada momento da vida!,Felicidade
+842,Acabei de ter uma conversa profunda e significativa com alguém!,Felicidade
+843,Estou tão feliz por ter amigos que me fazem rir e me animam sempre!,Felicidade
+844,Estou tão feliz que poderia pular de alegria!,Felicidade
+845,Eu sinto como se pudesse conquistar o mundo hoje!,Felicidade
+846,Estou tão feliz que não consigo parar de sorrir!,Felicidade
+847,Hoje é um dia maravilhoso para ser feliz!,Felicidade
+848,O sol está brilhando e o céu está azul - que dia perfeito!,Felicidade
+849,A felicidade é contagiosa - vamos espalhar mais dela!,Felicidade
+850,A vida é um presente e eu sou grato por cada momento!,Felicidade
+851,Não há nada melhor do que um dia cheio de risos e felicidade!,Felicidade
+852,A vida é bela e eu sinto muita gratidão por tudo que tenho!,Felicidade
+853,Eu vou ao supermercado hoje.,Felicidade
+854,Feliz dia das crianças para todos,Felicidade
+855,Eu to pagando a minha formatura sozinho e hj o meu pai apareceu com um computador de desktop sendo que tem 2 notebooks em cada. Tô bem feliz :),Felicidade
+856,feliz dia das crianças para mim! quero presente tá :),Felicidade
+857,Felizmente já aprendi a cagar nas atitudes nojentas e infantis das outras pessoas. Just move on :P,Felicidade
+858,Boa tarde e feliz dia das crianças pra vocês que são um neném igual eu :),Felicidade
+859,feliz dia das atitudes de vcs :),Felicidade
+860,to feliz agr :),Felicidade
+861,Feliz dia das crianças pra mim,Felicidade
+862,comprei boné novo sto feliz :),Felicidade
+863,Acabei de encontrar 15€ no meu bolso. Mind you que eu passei o dia todo com estas calças. Tou feliz :),Felicidade
+864,feliz aniversario meu denguinho ♡ você é um anjo e merece tudo de bom no mundo. você é suficiente,Felicidade
+865,#FelizDiaDasCriancas para os eleitores do bozo :D,Felicidade
+866,Seja feliz com o Vinicios gnt Apenas R$50,Felicidade
+867,feliz dia das crianças ,Felicidade
+868,Feliz dias das crianças pra vcs seus lixos :),Felicidade
+869,feliz dia das crianças pra sua namorada :),Felicidade
+870,Fazia tempo q eu nao ficava tão feliz assim como eu estou agora :D,Felicidade
+871,queria pra nami mas estou feliz pela orianna ganhar,Felicidade
+872,Feliz dia da criança :),Felicidade
+873,Feliz dia das crianças :),Felicidade
+874,FELIZ ANIVERSÁRIO MEU ANJOO eu te amo muito,Felicidade
+875,pra todas as crianças de 18 anos que nem eu :) #FelizDiaDasCriancas,Felicidade
+876,Super feliz! :),Felicidade
+877,Brinque! Comemore! Se divirta! Feliz dia das crianças \o/ :D Unival,Felicidade
+878,Feliz aniversário jimin :).,Felicidade
+879,feliz dia das crianças pra vc q se comporta como uma :),Felicidade
+880,Feliz Dia Das criançaixxx :D Uq vão me dar De presentih,Felicidade
+881,feliz dia das crianças pra você c essas suas atitudes infantis :),Felicidade
+882,Feliz dia das Crianças! Com o projeto ANIE :) Essa é uma homenagem para todos os adultos,Felicidade
+883,FELIZ DIA DAS CRIANÇAS GALERO eu sou uma criança de 16 anos :),Felicidade
+884,Feliz Dia das Crianças. :),Felicidade
+885,Feliz dias das crianças :),Felicidade
+886,to feliz pq minha dor tá passando :))),Felicidade
+887,feliz dia das crianças pra mim :),Felicidade
+888,feliz dia das crianças pra todas as beliebers :),Felicidade
+889,Feliz dia das crianças pra mim. Um bebê puro e inocente :),Felicidade
+890,infelizmente indo pro aniversário do meu irmão que eu odeio :),Felicidade
+891,FELIZ DIA DAS CRIANÇAS PESSOAL :D,Felicidade
+892,FELIZ DIA DAS CRIANÇAS!!! Não deixe sua criança interior morrer. É ela que te salva e não te deixa pirar com as pressões da vida adulta. :D :*,Felicidade
+893,Feliz feliz feliz por amanhã ir ver o jogo :),Felicidade
+894,Feliz dia das crianças pro meu ex namorado :),Felicidade
+895,Feliz dia das crianças pra vcs que pedem beijo Dayrol nas lives do multishow :),Felicidade
+896,Feliz dia das crianças :),Felicidade
+897,feliz dia das crianças pra você que deixa de ser amigo de alguém por causa de política :),Felicidade
+898,Crl mano tô mto feliz,Felicidade
+899,Hoje é dia das crianças... e se pudesse escolher um presente... seria esse anel :D Feliz dia das crianças! Independente de presente... que seja um dia pra recordar aqueles momentos que ficam pra sempre em nossa memória,Felicidade
+900,Feliz dia das crianças pra quem é criança o ano inteiro menos dia 12 de outubro :) #FelizDiaDasCriancas,Felicidade
+901,Que o dia das Crianças de vcs seja muito feliz,Felicidade
+902,quer me ver feliz? me da uma graphic msp capa dura ou qualquer livro msm :),Felicidade
+903,Bom dia . Nossa senhora Aparecidada proteja nosso pais e nossas familia . Feliz dias das crianças para quem ainda tem uma criança dentro de si :),Felicidade
+904,Vou hidratar meu cabelo! estou feliz.. :),Felicidade
+905,Infelizmente,Felicidade
+906,Meu pai me deu presente :)))))))))))) Agr posso ser um criança feliz e bem vestida,Felicidade
+907,Feliz dia das crianças pra vc que tem essas atitudes infantis :),Felicidade
+908,Feliz dia das crianças :) que vcs carreguem pra sempre a facilidade de perdoar,Felicidade
+909,Que nunca falte imaginação e nem doçura na vida dos pequenos. :) #felizdiadascrianças #pastilhasvalda,Felicidade
+910,feliz dia das crianças pra mim :),Felicidade
+911,Feliz dia das crianças :) no fundo todos nós ainda somos,Felicidade
+912,pelo menos eu vou dar meus brinquedos pras criancinhas hj to feliz :),Felicidade
+913,feliz dia das crianças pra todos nós que somos bebês inocentes nesse mundo de má influências :),Felicidade
+914,Olha como funciona a inversão da lógica: todo mundo me desejando feliz dia das crianças! Deve ser pq sou bem jovial mesmo com 42 anos! :) — se sentindo muito feliz,Felicidade
+915,Feliz dia das crianças pra vocês e suas atitudes infantis :) #FelizDiaDasCriancas,Felicidade
+916,Escrevi esta história de que gosto muito. Chama-se "Capitão Felizardo". Para quem tiver paciência de a ler,Felicidade
+917,Feliz dia das crianças,Felicidade
+918,feliz dia das crianças pro meu ex :),Felicidade
+919,Feliz dia das Crianças !! :) Não deixem a criança dentro de vcs morrerem,Felicidade
+920,Feliz dia das crianças pra suas atitudes,Felicidade
+921,Feliz dia das crianças pra minha melhor criança. Sdds da minha baixinha :) #gigi #amordadinda #amomaisquechocolate em Santos,Felicidade
+922,Fiquem felizes pq hoje só é feriado pq é aniversário do CORITIBA! :D,Felicidade
+923,Talvez saber de nada me faça bem mais feliz :),Felicidade
+924,Ai já resolvi sobre os doces :) Sou a pessoa mais feliz e triste do mundo,Felicidade
+925,Fico feliz em saber que isso acontece para alguma pessoas :),Felicidade
+926,Não tive português logo sou uma criança feliz :)),Felicidade
+927,Opa tava na merda mm e fiquei logo mais feliz só por causa daquilo :),Felicidade
+928,Feliz dia das crianças para você que não pode ver um plástico bolha que já quer estourar,Felicidade
+929,ir a loja de discos de vinil deixou-me bue feliz :))) a serio,Felicidade
+930,vamos pensar numa coisa feliz? essa semana tem feriado :),Felicidade
+931,Bora ser feliz gente,Felicidade
+932,rindo muito pois era pra eu estar com 12/15 na prova teórica de habilidades e no portal diz 9 :D falei com as duas professoras mas infelizmente só da pra resolver isso proxima semana,Felicidade
+933,monica e freixo felizmente eleitos de verdade :),Felicidade
+934,dependendo do futebol pra ser feliz ou seja até nisso to me fudendo pq meus times tão numa situação difícil :),Felicidade
+935,Tava achando a Fátima muito feliz,Felicidade
+936,mt feliz que to conseguindo fazer a redação no tempo certinho e cronometrado :),Felicidade
+937,Infelizmente compartilhando sem ler a matéria mas até tentei ler só que precisa pagar :))))),Felicidade
+938,O deputado mais votado no Rio de Janeiro foi o felizardo que pegou o mesmo número que o #EduardoBolsonaro usou pra concorrer em São Paulo. Parabéns,Felicidade
+939,Eu quero que vc seja mais feliz :),Felicidade
+940,felizmente pretendo me mudar p portugal :),Felicidade
+941,Não consigo chamar infelizmente mas fique sabendo q tu é d+ é eu gosto MT de vc desse jeito show seu =D — Ahhh que amorzinho � obrigada❣️❣️ Se um dia tu mudar de ideia,Felicidade
+942,Felizmente tem gente menos passional que eu e com dados fáticos pra falar tudo que eu gostaria de falar. :),Felicidade
+943,Você é mais forte do que pensa e será mais feliz do que imagina ! Bom diaaa :),Felicidade
+944,Esses dias encontrei uma mulher que arrumava o cabelo de mainha antigamente. Ela morou 10 anos no Sudeste e agora tá por aqui de volta porque disse que igual ao nordestino não existe. Ela perguntou se eu continuava muito falante e ficou super feliz porque eu virei jornalista. :P,Felicidade
+945,aí gurias bom dia hoje eh meu primeiro dia de trabalho to tão feliz :D alguma coisa de bom tinha q ter nessa semana,Felicidade
+946,Feliz porque comi um balde de coxinhas :),Felicidade
+947,feliz por poder faltar aula nessa segunda :)),Felicidade
+948,felizmente baiana :),Felicidade
+949,Muito impressionada e feliz com a nota de Macs :))),Felicidade
+950,Não mude seus princípios por conta do meio em que se está vivendo atualmente. Não se pode tornar o inferno atraente mais pôde-se fazer com que o caminho pareça prazeroso “Nada é errado se te faz feliz” - “Tudo me é permitido más nem tudo me convém” 1coríntios 6:12 :),Felicidade
+951,O homem que se aperfeiçoa é cada vez mais um homem feliz. E quanto mais feliz você se tornar,Felicidade
+952,a coisa q me deixou mais feliz hj é q o hobi vai poder ver sua família em londres :))),Felicidade
+953,nem acredito que o hobi vai ver a família dele eu tenho certeza que ele está super feliz :),Felicidade
+954,Frio? Finalmente estou feliz :),Felicidade
+955,Madrugadas ao som de the 1975 Eu realmente to feliz. :),Felicidade
+956,feliz dia pra mim :),Felicidade
+957,faça o que te faz feliz :)),Felicidade
+958,Tô tãaaao felizinha :),Felicidade
+959,Que Deus abençoe a todos e sejam felizes .;) ;) :),Felicidade
+960,tho estou feliz que Áurea Carolina e Andreia de Jesus foram eleitas! uma luz no meio disso tudo :),Felicidade
+961,hj eu e as meninas vamos sair com plaquinhas de "abraços grátis" eu tô feliz :),Felicidade
+962,felizmente posso dizer que sou nordestina e tenho muito orgulho de onde nasci e fui criada :))),Felicidade
+963,Infelizmente não engulo metade e sofro pelas injustiçadas. :D,Felicidade
+964,Felizmente o diploma que eu vou ficar admirando na parede me deu aula de economia pra entender que economia é mais que investimento externo,Felicidade
+965,Felicidade é que volto trabalhar só segunda.. :),Felicidade
+966,Filme lindo na hora certa: felicidade por um fio :),Felicidade
+967,ponho a vossa felicidade à frente da minha e depois admiro me de tar sempre na merda :),Felicidade
+968,Felicidade da minha pessoa que não discutiu política com ninguém :),Felicidade
+969,Felicidade de quem acordou cedo e descobriu que não tem aula :),Felicidade
+970,e a felicidade da semana é estar de recesso e jojuco rolando :p,Felicidade
+971,Felicidade de em 2014/2015 não ter ficado com a isza pois hj ela ta apoiando um certo bozo ai :D,Felicidade
+972,Sobre a vida hj em dia ____ / \ | :D | |______| /Aqui jaz\ |Felicidade|,Felicidade
+973,Felicidade de quem vai dormir com despertador desligado :D,Felicidade
+974,me deu uma felicidade agora :D,Felicidade
+975,"""Gostar realmente de alguém"" ora aí está uma coisa raríssima. O problema das relações é q cada um pensa na própria felicidade",Felicidade
+976,minha atual felicidade foi conseguir fazer o povo daqui trocar o reggaeton e salsa por billie eilish :) saíram da água parada para o vinho,Felicidade
+977,O qué é para você amar? — querer a felicidade da pessoa,Felicidade
+978,Uma outra felicidade de hoje mas com um mix de raivafoi: errei so uma questão fechada da prova,Felicidade
+979,As preocupações roubam a felicidade da gente,Felicidade
+980,a minha felicidade é ver o sorriso dela :),Felicidade
+981,minha felicidade só será completa quando tiver confirmado meu ot9 nesse comeback :),Felicidade
+982,Eu acho que a felicidade não me cai bem,Felicidade
+983,Como você desenharia a felicidade? — eu desenhei antes de ontem,Felicidade
+984,Barulho de felicidade é ouvir o vizinho a levar as malas pra ir embora :))))),Felicidade
+985,Liga não jo!! Toda felicidade do mundo para vocês,Felicidade
+986,mas foi como se a vida tivesse me dado mais uma chance de viver um dia com ela. Foi tão incrível que eu não consigo nem mensurar minha felicidade :),Felicidade
+987,Felicidade é sentir sono no fim do dia sabendo que acordou cedo e foi um pouco produtivo. Essa é a minha pequena conquista diária :),Felicidade
+988,felicidade: [27/9 19:41] Mell✨: Queria uma pizza agr [27/9 19:41] Mell✨: :( [27/9 20:04] Mell✨: Pedi pizza [27/9 20:04] Mell✨: :),Felicidade
+989,Meu nível de felicidade arrebentou quando disseram que vamos para o Parente este fim de semana!!!! :))))),Felicidade
+990,Danoninhos fazem-me sentir felicidade e nostalgia. Sim,Felicidade
+991,Ninguém me tira era felicidade :),Felicidade
+992,Felicidade do dia :D #Repost lendaribr with get_repost ・・・ MAIS VENDIDO Ainda em pré-venda na Amazon,Felicidade
+993,gnt eu sonhei q tinha tirado 62 na prova de proc penal e tava mt feliz aí a iara me falou q ela tinha q add mais 30 pontos ainda e eu tava quase explodindo de felicidade :(,Felicidade
+994,dinheiro não compra felicidade,Felicidade
+995,eu amo ver a energia e a felicidade das pessoas após o eac ,Felicidade
+996,encontrei a prometida por 5seg no terminal e tô felicidade porém queria mais :(,Felicidade
+997,saudades daquela felicidade genuína que ela me dava :(,Felicidade
+998,to tão triste pelo junhoe :( eu espero que ele se recupere logo e perceba que a gente tá aqui por ele. esse era pra ser um momento de felicidade,Felicidade
+999,Como você desenharia a felicidade? — Porrax,Felicidade
+1000,Dinheiro traz felicidade,Felicidade
+1001,Como posso ajudar?,Dúvida
+1002,Estou com uma dúvida,Dúvida
+1003,Qual seu nome?,Dúvida
+1004,Qual seu endereço?,Dúvida
+1005,Onde você mora?,Dúvida
+1006,Qual motivo disso tudo?,Dúvida
+1007,Quais suas habilidades?,Dúvida
+1008,Você me entende?,Dúvida
+1009,Você consegue me ver?,Dúvida
+1010,Pode me ajudar?,Dúvida
+1011,Onde fica o bar?,Dúvida
+1012,Onde estamos?,Dúvida
+1013,Qual sera o ponto de encontro?,Dúvida
+1014,Antigamente o que faziamos para nos divertir?,Dúvida
+1015,Será que devo mesmo fazer isso?,Dúvida
+1016,Não sei se isso é a coisa certa a fazer.,Dúvida
+1017,Será que vale a pena tentar?,Dúvida
+1018,Estou com medo de tomar a decisão errada.,Dúvida
+1019,Não sei se devo confiar nessa pessoa.,Dúvida
+1020,Estou em dúvida sobre qual caminho seguir.,Dúvida
+1021,Será que estou fazendo a coisa certa?,Dúvida
+1022,Não sei se estou preparado para isso.,Dúvida
+1023,Não sei se estou pronto para dar esse passo.,Dúvida
+1024,Será que estou fazendo a escolha certa?,Dúvida
+1025,Não sei se consigo lidar com essa situação.,Dúvida
+1026,Estou com dúvidas sobre as minhas habilidades.,Dúvida
+1027,Será que estou sendo justo comigo mesmo?,Dúvida
+1028,Não sei se devo contar a verdade.,Dúvida
+1029,Estou em dúvida sobre o que fazer em seguida.,Dúvida
+1030,Não sei se devo seguir meu coração ou minha mente.,Dúvida
+1031,Será que estou tomando a decisão certa?,Dúvida
+1032,Não sei se estou pronto para assumir essa responsabilidade.,Dúvida
+1033,Estou com medo de me arrepender depois.,Dúvida
+1034,Não sei se estou preparado para lidar com as consequências.,Dúvida
+1035,Será que estou sendo realista sobre a situação?,Dúvida
+1036,Não sei se devo me arriscar.,Dúvida
+1037,Estou em dúvida sobre a melhor maneira de abordar isso.,Dúvida
+1038,Não sei se estou levando tudo em consideração.,Dúvida
+1039,Será que estou sendo impulsivo demais?,Dúvida
+1040,Não sei se devo aceitar essa proposta.,Dúvida
+1041,Estou com dúvidas sobre as minhas escolhas anteriores.,Dúvida
+1042,Será que estou sendo injusto com os outros?,Dúvida
+1043,Não sei se devo acreditar nas promessas que me fazem.,Dúvida
+1044,Estou em dúvida sobre a melhor maneira de seguir em frente.,Dúvida
+1045,Não sei se estou sendo fiel aos meus valores.,Dúvida
+1046,Será que estou desperdiçando meu tempo?,Dúvida
+1047,Não sei se estou preparado para enfrentar esse desafio.,Dúvida
+1048,Será que estou tomando a decisão certa?,Dúvida
+1049,Não sei se devo seguir em frente ou desistir.,Dúvida
+1050,Fico me perguntando se estou no caminho certo.,Dúvida
+1051,Às vezes fico em dúvida se devo seguir meu coração ou minha razão.,Dúvida
+1052,Será que estou preparado para as consequências dessa escolha?,Dúvida
+1053,Não sei se essa é a melhor opção para mim.,Dúvida
+1054,Às vezes fico em dúvida se estou fazendo a coisa certa.,Dúvida
+1055,Será que estou dando o meu melhor?,Dúvida
+1056,Não sei se estou preparado para lidar com as consequências dessa decisão.,Dúvida
+1057,Fico me perguntando se essa é a escolha certa para mim.,Dúvida
+1058,Às vezes me pego em dúvida se essa é a carreira que quero seguir.,Dúvida
+1059,Será que estou no caminho certo para alcançar meus objetivos?,Dúvida
+1060,Não sei se devo confiar naquela pessoa.,Dúvida
+1061,Fico em dúvida se devo aceitar esse convite ou não.,Dúvida
+1062,Será que estou dando o meu máximo ou poderia fazer mais?,Dúvida
+1063,Não sei se devo me arriscar ou ficar na minha zona de conforto.,Dúvida
+1064,Às vezes fico em dúvida se sou capaz de alcançar meus sonhos.,Dúvida
+1065,Será que estou sendo sincero comigo mesmo?,Dúvida
+1066,Não sei se devo investir meu tempo nesse projeto.,Dúvida
+1067,Fico em dúvida se estou dando a devida importância para minhas relações.,Dúvida
+1068,Será que estou valorizando minhas conquistas o suficiente?,Dúvida
+1069,Não sei se estou indo rápido demais ou devagar demais.,Dúvida
+1070,Às vezes fico em dúvida se estou me esforçando o suficiente.,Dúvida
+1071,Será que estou me dedicando ao que realmente importa para mim?,Dúvida
+1072,Não sei se devo me preocupar com o que os outros pensam.,Dúvida
+1073,Fico em dúvida se estou vivendo a minha vida ou a vida que os,Dúvida
+1074,por que as pessoas nao fazem mais remix dos videos com auto tune? :(,Dúvida
+1075,serase que tá muito tarde pra postar os novas capítulos da au Junhwan? pq eu passei o intervalo todo do cursinho fazendo :(,Dúvida
+1076,briguei meio feio com um (ex?) melhore amigo e agr tô com medo do q pode acontecer :( como q a gnt chegou nesse ponto???,Dúvida
+1077,eu só queria dar uns beijos na boca É PEDIR DEMAIS? :(((((((,Dúvida
+1078,-cade teu pai?? - a gente ta brincando de se esconder desde quando eu era criança,Dúvida
+1079,aaa é tão bom ler um “ to com saudade “ “ dormiu bem? “ “ deixa eu cuidar de você “ “ você é linda “ “ te amo,Dúvida
+1080,pq que até hoje eu não tenho um amor? pq fazes isso comigo Deus :(,Dúvida
+1081,pq vcs so dao atenção pra fc famosinho? os flops tbm querem interagir :(,Dúvida
+1082,será que a demi tá bem?queria saber como ela tá :(,Dúvida
+1083,D Sem dados da horta! Bateria pifou? Internet caiu? :(,Dúvida
+1084,tem como trocar tudo e colocar a manuela d'avila como vice do ciro? :(,Dúvida
+1085,sente saudades de algm? se ss quem? — uhumm,Dúvida
+1086,Por que é tão difícil amar o próprio corpo? :(,Dúvida
+1087,Como tem gente que dorme com esse negocio de ASMR? me deu foi dor de cabeça :(,Dúvida
+1088,Só eu que me sinto excluída e flopada nessa #ARMYSelcaDay ? :(,Dúvida
+1089,Pq vc me da tanto vácuo lia? — foi sem querer,Dúvida
+1090,ciro ou haddad? haddad ou ciro? socorro n aguento mais essa eleição :(,Dúvida
+1091,sera que eu fiz alguma coisa?? :(,Dúvida
+1092,será que meu fiozinho vermelho foi cortado? :(,Dúvida
+1093,na moral pq q ngm vota na marina? :(,Dúvida
+1094,eu bem de boa falando com a guria :) quantos anos tens? vinte e um :(((((,Dúvida
+1095,Quando vocês dão o cu vocês ficam com gazes? Depois da DEDADA passei o dia assim :(,Dúvida
+1096,Conseguiste concretizar alguns objetivos este ano? — Sim,Dúvida
+1097,por que cara? ai me poupe :(,Dúvida
+1098,Será que depois do dia 17 ainda vai ter estoque da camisa III do Corinthians? Meu cartão só vira nesse dia :(,Dúvida
+1099,cadê djavan em FLN? :(,Dúvida
+1100,pra que eu fui ler a porra do livro da uerj de uma vez? agora nao tenho nada pra fazer :(,Dúvida
+1101,Gosta de dançar? Se sim,Dúvida
+1102,será que eu posso guardar o thiago e cuidar? :( é muito precioso ele,Dúvida
+1103,porque eu tive que demorar pra te responder? :(,Dúvida
+1104,Assunto sério: bichinhos Alguém conhece alguma organização ou alguém que pegue bichinhos de rua com doença pra cuidar???? Tem um gato na minha rua com esporotricose (doença contagiosa) e ele tá muito ruim,Dúvida
+1105,Ai gente e essa pesquisa do IBOPE hem? Eu já vou começar a pensar no pior para não me decepcionar mais :(,Dúvida
+1106,pq semirames ta andando tão tristinha esses dias ? :( — Eu não posso falar são problemas dela,Dúvida
+1107,Quais dias da semana vc tem aula no integral? — eu não tenho mais aula no integral :( eu fazia específica de terça lá semestre passado,Dúvida
+1108,Pq ela tá assim será? :(,Dúvida
+1109,quem quer amigar? :(((,Dúvida
+1110,Como foi seu dia? — foi cansativo,Dúvida
+1111,será que eu nunca vou conseguir fazer um desenho completo dnv???? eu nem forcei meu braço pq é aquarela e ja ficou doendo mano af :((((,Dúvida
+1112,Vocês estão preparados pra Toy Story 4? Porque eu não,Dúvida
+1113,cadê o mozão p eu jogar p fora da cama hoje? :(,Dúvida
+1114,Tem piercings ? — eu tinha piercing no septo há um ano atrás,Dúvida
+1115,Será que meu coração já ta apertado de ter que ir embora? :(,Dúvida
+1116,Pq Vc me trata tão mal? — lolo,Dúvida
+1117,Eu tô triste pq vou voltar com o cabelo total castanho por 2 messes e meio? Tô sim :(,Dúvida
+1118,Caralho esse pesquisa do Ibope hein!? :(,Dúvida
+1119,gente que simpatia q faz pra sao francisco trazer o doguinho de volta? :(((,Dúvida
+1120,me manda a foto de novo? Apaguei a conversa do grupo :(((,Dúvida
+1121,Sério que acabo os ingressos do Fernandinho? Me enrolei tanto pra comprar e agora não tem mais :(,Dúvida
+1122,Charles Aznavour NÃÃÃÃÃÃÃÃO quem deixou??? volta aqui :((((((,Dúvida
+1123,a pq eu smp estrago minhas amizades virtuais? mesmo querendo q elas continuem :(,Dúvida
+1124,segunda combina com o que mesmo? Sim,Dúvida
+1125,vocês tem noção de que esse é o último mês da minha vida escolar? vai ser horrível dms n ver alguns rostinhos todos os dias :( não consigo nem imaginar isso,Dúvida
+1126,alguém me dá um gato preto? :(,Dúvida
+1127,Quem quer vir cmg ao ginásio as 19? :(((,Dúvida
+1128,Assim ninguém vem me dar um bjinho ? :(,Dúvida
+1129,mandei uma msg p minha mãe falando q coloquei um piercing e ela mandou: :( ficou muito feio?,Dúvida
+1130,Conseguiste concretizar alguns objetivos este ano? — é,Dúvida
+1131,ultimo mês do meu terceirão????)(:(????!))(?!!???????$)?????,Dúvida
+1132,eu preciso escrever mais 6 capítulos pra essa semana e meu bloqueio criativo não deixa :( alguém me diz o que fazer?,Dúvida
+1133,e eu que já deixei de ficar com o garoto que gosto pra krl ate hj pq eu me sentia insuficiente? hj ele fala "tarde demais" mal sabe ele q eu tenho é medo de fazer tudo errado KKKKKK sou afim dele até hj mas ele não,Dúvida
+1134,Mano eu entendo a parada do canudo de plástico mas ao mesmo tempo não sei se concordo? :( É meio merda ver gente próxima que não consegue se adaptar ao canudo de papel,Dúvida
+1135,Comecei a beber...... Vamo embora? Aaah mas já :( AF kkkkkkkkkkk,Dúvida
+1136,miga tu faz alguma csa na unha? pq eu n consigo deixar a minha grande sempre quebra :( — eu só pinto regularmente meu amor,Dúvida
+1137,Quem vc esta ansiosa para ver? — o meu neném,Dúvida
+1138,Seria meu sonho os pathcodes voltarem? :((((((((((( #EXOComingSoon,Dúvida
+1139,O lado esquerdo do meu fone deu ruim :( JBL pq me matou?,Dúvida
+1140,Até que horas vai essa chuva será? :(,Dúvida
+1141,e eu que gostei do plano de marina mas nao sinto confiança nela? nao acho que ela vai ter governabilidade :(,Dúvida
+1142,Comi japa ontem e acordei com vontade de comer o que???? Isso mesmo :(,Dúvida
+1143,pq é q esticam as fotos do passe? assim parece que fico com a testa ainda maior do que é :((,Dúvida
+1144,"""Eu não acredito que vocês vão me forçar a votar no pt :("" Cês ainda não entenderam muito bem como funciona uma democracia né? Eu vou votar no Skaf pro Dória não ganhar e vocês não me veem reclamando aqui",Dúvida
+1145,estou titi :( alguém aí pode me dar megaman 11 ou então megaman x legacy collection por favorzinho?,Dúvida
+1146,alguém vai pra academia comigo? :(,Dúvida
+1147,taeil podia tanto ter postado uma selca por que será q ele n posta? :(,Dúvida
+1148,Cadê o pagamento ? :(,Dúvida
+1149,Conseguiste concretizar alguns objetivos este ano? — Ainda não acertei na loteria,Dúvida
+1150,brasil nunca vai conseguir um nobel ne? principalmente um de medicina ....é tao triste isso :(,Dúvida
+1151,Pq eu sou assim? :(,Dúvida
+1152,como recupero meu save do GTA 5 do PS3/PS4 e transfiro pro jogo do PC? preguiça exxxtrema de começar tudo de novo! :(,Dúvida
+1153,Será que tem alguém vacilando pela região da paulista e quer almoçar? Mó chato almoçar sozinho :-(,Dúvida
+1154,Ficando com alguém ? — Ninguém me quer,Dúvida
+1155,qual? dessa vez é pra valer :(,Dúvida
+1156,como é que me fartei do meu bagaço que era tipo perfeito numa semana mas aturei um gajo durante meses? :( tou estragada,Dúvida
+1157,pq meu coração ta doendo ? :(,Dúvida
+1158,aaaaaa sério que lost stars é seu cover fav?é o meu também aaaaa é tão lindo,Dúvida
+1159,é possível se apaixonar mais pelo taehyung? sério,Dúvida
+1160,mano elas não deixaram a live salva????? eu tô muito triste queria assistir legendada :((((,Dúvida
+1161,quando tu vem pra salete pra gente sair juntas? — quero ir o quanto antes,Dúvida
+1162,ja foi em algum show? se sim,Dúvida
+1163,Alguém me explica porque eu sou tão desastrada? Acabei de tomar um banho de café :(,Dúvida
+1164,ué sumiu? :( — Ue n sei quem eis,Dúvida
+1165,Já é outubro... E agora?? Não me preparei o suficiente :(,Dúvida
+1166,como faz para parar com as dores no corpo?! :( não aguento mais,Dúvida
+1167,Sua mãe ainda está com o cachorro que ela adotou quando estava bebada??? — Ela n pode ficar ,Dúvida
+1168,Interessada em alguém ? — até estou,Dúvida
+1169,Mal começou a semana e já tô triste pois odeio bad feelings com as miga :(((( será q se eu comprar 1kg de doces e sorrir com essa minha cara de paçoca eu resolvo as coisas?,Dúvida
+1170,eu: coloco aqui q nao cheguei em um resultado? profa: ok,Dúvida
+1171,Vc não vai mais morar em Curitiba ano q vem? :( minhas chances de namorar ela deusa acabaram — vou ficar em Jlle mesmo,Dúvida
+1172,Que tintas e descolorante usaste para pintar o cabelo? Beijinhos! — não faço a mínima,Dúvida
+1173,sdds da eduarda???? :((( saco,Dúvida
+1174,ngm me quer levar a mem martins? :(,Dúvida
+1175,o jungkook eh mt meu soulmate gravando as coisas do dia dele colocando ali eu me sinto mt uma partezinha da vida dele assim? :( da pra imaginar ele gravando os amigo dele fazendo bosta e me mandando no zap pra eu rir tb,Dúvida
+1176,É pedir demais um emprego em que eu vá feliz e com vontade de trabalhar? :(,Dúvida
+1177,e se ele nao quiser falar comigo? :(,Dúvida
+1178,como faz pra recuperar documentos excluídos da lixeira? :(,Dúvida
+1179,o jungkook??????? é o homem mais talentoso do mundo todinho de verdade eu sempre fico :( chocada pq parece que o meu peito vai explodir de amor sabe,Dúvida
+1180,saudade de quando o harry usava jeans e aquelas botas dele :( harry pq me matou?,Dúvida
+1181,E governador hein? Tamo lascados!!!! Tô achando que nem segundo turno vai,Dúvida
+1182,sera que vai ter alguma festa de hallowen nessa cidade? :(,Dúvida
+1183,Por que a Natalia tá triste? :(,Dúvida
+1184,Quero saber quando que eu vou acordar em um dia que todos saibam o que de fato é feminismo e achem esse movimento tão bonito e importante quanto eu acho? :( #EleNão #EleNunca #EleJamais,Dúvida
+1185,Alguma dica pra afinar a cintura? A minha tá horrorosa,Dúvida
+1186,GENTE minha viagem pra BGS já está toda paga mas o dono do AP acabou de cancelar comigo!! Falta só uma semana eu preciso de um AP pra 3 pessoas em SP. Alguém tem contato? pf RT pra me ajudar,Dúvida
+1187,Ando bué????? É depois dou ghost a toda a gente e sinto-me bué mal :(,Dúvida
+1188,Pegou pesado ontem a respeito dos nomes de cobras :( — um anônimo chegar do nada achando que pode me cobrar beijo (?),Dúvida
+1189,Olha essa KLG... o BR não era melhor q esses times? Pq perdemos sempre de forma vergonhosa? :( Oq me deixa mais triste é... o cenário BR sempre foi o melhor dos wildcards,Dúvida
+1190,Não consegui assistir ao #LaVozMexico ontem. :( Aonde eu posso assistir? Fica disponível no Las Estrellas?,Dúvida
+1191,mano weki meki so tem 88k de follows na conta do tt???? que absurdo,Dúvida
+1192,Acordar 5hrs p ver a KBM perdendo? Que nada,Dúvida
+1193,Mas afinal la casa de papel já saiu ou não? :(,Dúvida
+1194,Fim de semana foi foda e tal.. mas falta muito pra chegar sábado? É q to com saudade :( #SegundaDetremuraSDV,Dúvida
+1195,Aaaaaaaaaaaaaa Será que São Paulo consegue resistir a uma chuva sem deixar pra trás um trânsito horrível? :( Eu só queria ser uma princesa pontual,Dúvida
+1196,Mais uma vez perdendo o jogo na selva... :( Será que não ter jungler ótimo no BR continua sendo um problema estrutural? #Worlds2018 #GoKBM,Dúvida
+1197,"""Líderes evangélicos"" - GRANDE BOSTA!!!!!!!! #prontofalei Cadê o estado laico!? Socorro :( Queria muito que inferno existisse",Dúvida
+1198,Conseguiste concretizar alguns objetivos este ano? — Que eu me lembre,Dúvida
+1199,Você é lésbica Gold Star? (Apenas no caso de você não sabe o que significa,Dúvida
+1200,E essa minha internet que está uma merda e não quer carregar esse site que amo e queria usa-lo nesse momento!? :(,Dúvida
+1201,Então mas a mim ninguém me convida para ir às escolas apoiar as vossas listas? :( Tenho quase 2 mil seguidores,Dúvida
+1202,Preciso de uma agenda nova agora cadê o money?:((((,Dúvida
+1203,Segunda? Não :(,Dúvida
+1204,Conseguiste concretizar alguns objetivos este ano? — Não,Dúvida
+1205,Conseguiste concretizar alguns objetivos este ano? — no começo desse ano eu jurei que não ia namorar,Dúvida
+1206,spielberg? sério? é kubrick,Dúvida
+1207,cara como assim eu dormi sem desejar boa viagem pra ele? A :(,Dúvida
+1208,Cameraaaa anue naaa :((( December 18 pa? huhu,Dúvida
+1209,Adivinhem do que me esqueci em Arganil? That’s right ,Dúvida
+1210,Acabei Rick e morty e agora? :((,Dúvida
+1211,O que esse ´´amor`` tem de tão diferente que prende a gente? ninguém abre mão :(,Dúvida
+1212,ninguém me qr ir buscar à escola hoje ? :( saio às 16.30 e não tenho como ir p casa :),Dúvida
+1213,minha gastrite resolveu atacar a essa hora :( como q dorme ???,Dúvida
+1214,Conseguiste concretizar alguns objetivos este ano? — Epah,Dúvida
+1215,Decepção da semana é saber que a mãe da Kéfera apoia o Bolsonaro. ): Ela parecia uma mulher tão legal. Será que é homofóbica? :(,Dúvida
+1216,oi falta de ar será que você podia me atazanar outra hora? eu preciso dormir pelo menos um pouco :(,Dúvida
+1217,Que me falta?:(,Dúvida
+1218,cade o sono??? :((,Dúvida
+1219,Es mi falta de amor propio o k?:(,Dúvida
+1220,Por que sempre tem que ir embora? Se não fizesse falta,Dúvida
+1221,a n :( pq eu tenho tanto ciúmes? Isso n é saudável,Dúvida
+1222,Int amor será que rola aquela live lá???? Assim só pra saber msm,Dúvida
+1223,meninas vcs que se sentem bem e felizes com o próprio corpo como é a sensação??? :((,Dúvida
+1224,alguem joga lolzin comigo ? :(,Dúvida
+1225,poxa a carinha dele :( ai poxa pq ele é assim?????? hm to triste,Dúvida
+1226,vcs também tem amigos que riem de voce em TUDO??? não pode fazer um “a” que já tá te colocando pra baixo :(,Dúvida
+1227,Eu to carente e meu namorado quer dormir :( o que fazer?,Dúvida
+1228,Reativa um dos perfis...eu nunca mais vou poder falar com você??? Caramba,Dúvida
+1229,"""Do que sente falta?"" é um complicado até pra mim ... eu não entendo",Dúvida
+1230,alguem acordado ai? :(,Dúvida
+1231,aaa :(( e au dos profs? vc vai continuar? — Vou sim,Dúvida
+1232,nao era pra mim ter stalkeada certa pessoa............:( sera se elx tá vendo meus tweets tb??? :/,Dúvida
+1233,parando pra pensar pq será que o taehyung não tá mais aparecendo no tt? nem live,Dúvida
+1234,não gosto de te ver tristinho :( o que posso fazer pra te animar? — acho que nada amor,Dúvida
+1235,gente socorro alguém conversa comigo??? todo mundo foi dormir e eu to sozinha agora :(((,Dúvida
+1236,gente alguém q joga lol pode jogar agora pra completar time no squad?? :(,Dúvida
+1237,e a lilo que tentou ajudar e levou um murro na cara? :(,Dúvida
+1238,sla essas selca dele q ele ta simplesmrnte ?? naturalzinho todo soft cabo de sai do banhozinho dele me deixa warm demais eu so fico imaginando ele indo deita :((,Dúvida
+1239,pq foi ruim? o que fez no dia? — aah.. coisinhas pessoais :(( nn fiz nada demais,Dúvida
+1240,pq nao botaram minha mensagem pro day6 no livro? :(((,Dúvida
+1241,pq gostar de scott pilgrim eh tao caro? eu só queria todas as edições coloridas :(,Dúvida
+1242,só sei que senti muito medo ouvindo a voz dele nesse vídeo :( até quando nós mulheres vamos sentir medo? meu deus...,Dúvida
+1243,cade as mina pra ve desenho agarradinho essa hora do dia? :(,Dúvida
+1244,vc tem algum animal de estimação? — eu tinha :( eu me mudei de casa e ele sumiu.. e você? (era um gatinho,Dúvida
+1245,Meu pai trouxe Yakisoba né. Daí que deixou que colocassem camarão... Quem é super alérgica a camarão? Isso,Dúvida
+1246,é pedir demais alguém pra jogar cmg agora??? ngm me atende nesta merda :(,Dúvida
+1247,o pito :(((( ele dá um chute nas bola de todos os meus problemas???? ansiedade?????? crise de etc????? problema de dinheiro???? WHAT THE FUCK IS THIS SHIT QUANDO ELE TA SORRINDO ASSIM FAZENDO MEU MUNDO BRILHAR TODINHO?????????,Dúvida
+1248,Sábado e eu to como ? Parecendo uma cabotiã de tanto que chorei nesse ep de Good Doctor das irmãs siamesas :(,Dúvida
+1249,alguém fala para o jimin que eu o amo mais do que tudo? :(,Dúvida
+1250,ai perdão gente eu ia att a au mas to com sono demais pra isso :( amanhã att muito ok?,Dúvida
