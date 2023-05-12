@@ -4,16 +4,22 @@ import ssl, json
 app = Flask(__name__)
 
 #Post teste
-@app.route("/", methods=['POST'])
+@app.route("/teste", methods=['POST', 'GET'])
 def imprimir():
-    response = request.get_json()
-    return jsonify({"status": 200})
+    if request.method == 'GET':
+        print('Recebi um GET')
+        return jsonify({"status": 200})
+    
+    if request.method == "POST":
+        response = request.get_json()
+        print(response)
+        return jsonify({"status": 200})
 
 #Post para o blip
-@app.route("/chat", methods=['POST'])
+@app.route("/", methods=['POST'])
 def imprimirChat():
     imprime = print(request.json)
-    data = request.json
+    data = request.get_json()
     with open('database_pymongo/history.json', 'a') as outfile:
         outfile.write('\n')
         json.dump(data, outfile)
@@ -27,6 +33,6 @@ def webhook():
 
 if __name__ == '__main__':
     app.run(debug=True)
-    #app.run(host='168.0.96.11:?')
+    app.run(host="0.0.0.0", port=5000)
 
     
